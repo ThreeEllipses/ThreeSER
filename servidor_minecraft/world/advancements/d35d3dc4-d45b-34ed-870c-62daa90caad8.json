@@ -516,12 +516,6 @@
     },
     "done": true
   },
-  "blazeandcave:building/rainbow_dreams": {
-    "criteria": {
-      "red_bed": "2024-12-21 18:50:23 +0000"
-    },
-    "done": false
-  },
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
       "plains": "2024-12-21 18:44:09 +0000"
@@ -545,6 +539,12 @@
       "magnolia_log": "2024-12-21 18:47:28 +0000",
       "willow_log": "2024-12-21 18:48:48 +0000",
       "mauve_log": "2024-12-21 18:46:53 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/rainbow_dreams": {
+    "criteria": {
+      "red_bed": "2024-12-21 18:50:23 +0000"
     },
     "done": false
   },

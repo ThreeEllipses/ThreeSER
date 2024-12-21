@@ -1931,3 +1931,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21Dec2024 18:50:13.544] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
 [21Dec2024 18:50:38.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses lost connection: Disconnected
 [21Dec2024 18:50:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses left the game
+[21Dec2024 18:53:25.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_PADRINO lost connection: Disconnected
+[21Dec2024 18:53:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_PADRINO left the game
+[21Dec2024 18:54:24.317] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c223c26[id=<null>,name=ThreeEllipses,properties={},legacy=false] (/127.147.101.239:34095) lost connection: Internal Exception: java.util.ConcurrentModificationException
+[21Dec2024 18:54:36.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThreeEllipses[/127.147.101.239:36205] logged in with entity id 28496 at (256.94897983391525, 155.0, 149.90716501540248)
+[21Dec2024 18:54:36.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses joined the game
+[21Dec2024 18:54:46.410] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[21Dec2024 18:55:02.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThreeEllipses> zzzzzz
+[21Dec2024 18:55:16.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_PADRINO[/127.147.101.239:41351] logged in with entity id 28924 at (10.504406414711278, 82.0, -58.30000001192093)
+[21Dec2024 18:55:16.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_PADRINO joined the game
+[21Dec2024 18:55:19.223] [Server thread/INFO] [do_a_barrel_roll/]: Client of EL_PADRINO accepted server config.
+[21Dec2024 18:58:23.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Created new objective [vida]]
+[21Dec2024 18:58:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set display slot list to show objective vida]
