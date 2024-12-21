@@ -70,7 +70,8 @@
     "criteria": {
       "willow_forest": "2024-12-21 18:48:13 +0000",
       "rocky_meadow": "2024-12-21 18:42:21 +0000",
-      "magnolia_highlands": "2024-12-21 18:47:08 +0000"
+      "magnolia_highlands": "2024-12-21 18:47:08 +0000",
+      "temperate_grove": "2024-12-21 19:02:01 +0000"
     },
     "done": false
   },
@@ -78,7 +79,8 @@
     "criteria": {
       "willow_forest": "2024-12-21 18:48:13 +0000",
       "rocky_meadow": "2024-12-21 18:42:21 +0000",
-      "magnolia_highlands": "2024-12-21 18:47:08 +0000"
+      "magnolia_highlands": "2024-12-21 18:47:08 +0000",
+      "temperate_grove": "2024-12-21 19:02:01 +0000"
     },
     "done": false
   },
@@ -100,8 +102,11 @@
       "statistics_root": "2024-12-21 18:42:36 +0000",
       "aww_it_broke": "2024-12-21 18:52:21 +0000",
       "the_first_night": "2024-12-21 18:42:35 +0000",
+      "wooly": "2024-12-21 19:02:03 +0000",
+      "cow_tipper": "2024-12-21 19:02:33 +0000",
       "building_root": "2024-12-21 18:45:30 +0000",
       "just_keep_swimming": "2024-12-21 18:51:40 +0000",
+      "sweet_dreams": "2024-12-21 19:16:12 +0000",
       "animal_root": "2024-12-21 18:42:43 +0000",
       "biomes_root": "2024-12-21 18:47:43 +0000",
       "bacap_root": "2024-12-21 18:42:23 +0000",
@@ -212,6 +217,8 @@
   },
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
+      "wooly": "2024-12-21 19:02:03 +0000",
+      "cow_tipper": "2024-12-21 19:02:33 +0000",
       "root": "2024-12-21 18:42:43 +0000"
     },
     "done": false
@@ -238,10 +245,15 @@
   },
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
+      "beef": "2024-12-21 19:02:33 +0000",
       "stick": "2024-12-21 18:44:58 +0000",
       "wooden_sword": "2024-12-21 18:46:37 +0000",
       "wheat_seeds": "2024-12-21 18:57:34 +0000",
+      "mutton": "2024-12-21 19:02:03 +0000",
+      "bone": "2024-12-21 19:17:40 +0000",
+      "leather": "2024-12-21 19:02:33 +0000",
       "bread": "2024-12-21 18:43:32 +0000",
+      "arrow": "2024-12-21 19:16:43 +0000",
       "wooden_axe": "2024-12-21 18:46:32 +0000"
     },
     "done": false
@@ -268,7 +280,9 @@
   },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
+      "white_wool": "2024-12-21 19:02:03 +0000",
       "dirt": "2024-12-21 18:47:27 +0000",
+      "white_bed": "2024-12-21 19:16:27 +0000",
       "crafting_table": "2024-12-21 18:45:30 +0000"
     },
     "done": false
@@ -281,6 +295,7 @@
   },
   "blazeandcave:bacap/building_milestone": {
     "criteria": {
+      "sweet_dreams": "2024-12-21 19:16:12 +0000",
       "root": "2024-12-21 18:45:30 +0000"
     },
     "done": false
@@ -343,7 +358,8 @@
   },
   "blazeandcave:weaponry/multiclassed": {
     "criteria": {
-      "axe": "2024-12-21 18:47:40 +0000"
+      "axe": "2024-12-21 18:47:40 +0000",
+      "sword": "2024-12-21 19:01:59 +0000"
     },
     "done": false
   },
@@ -415,19 +431,88 @@
   },
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
+      "forest": "2024-12-21 19:03:12 +0000",
       "plains": "2024-12-21 18:53:12 +0000"
     },
     "done": false
   },
   "blazeandcave:challenges/explorer_of_worlds": {
     "criteria": {
+      "forest": "2024-12-21 19:03:12 +0000",
       "plains": "2024-12-21 18:53:12 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-12-21 19:03:12 +0000",
       "plains": "2024-12-21 18:53:12 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/vegetarian": {
+    "criteria": {
+      "bread": "2024-12-21 19:01:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-21 19:01:22 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-21 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/wooly": {
+    "criteria": {
+      "sheep": "2024-12-21 19:02:03 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/rainbow_collection": {
+    "criteria": {
+      "white_wool": "2024-12-21 19:02:03 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/engineer": {
+    "criteria": {
+      "white_wool": "2024-12-21 19:02:03 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:animal/cow_tipper": {
+    "criteria": {
+      "leather": "2024-12-21 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/rainbow_dreams": {
+    "criteria": {
+      "white_bed": "2024-12-21 19:16:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-21 19:16:12 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/death_from_all": {
+    "criteria": {
+      "skeleton": "2024-12-21 19:17:15 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/stack_all_the_blocks": {
+    "criteria": {
+      "white_bed": "2024-12-21 19:16:27 +0000"
     },
     "done": false
   },
