@@ -68,18 +68,22 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2024-12-21 19:28:38 +0000",
       "willow_forest": "2024-12-21 18:48:13 +0000",
       "rocky_meadow": "2024-12-21 18:42:21 +0000",
       "magnolia_highlands": "2024-12-21 18:47:08 +0000",
+      "boreal_forest": "2024-12-21 19:30:04 +0000",
       "temperate_grove": "2024-12-21 19:02:01 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2024-12-21 19:28:38 +0000",
       "willow_forest": "2024-12-21 18:48:13 +0000",
       "rocky_meadow": "2024-12-21 18:42:21 +0000",
       "magnolia_highlands": "2024-12-21 18:47:08 +0000",
+      "boreal_forest": "2024-12-21 19:30:04 +0000",
       "temperate_grove": "2024-12-21 19:02:01 +0000"
     },
     "done": false
@@ -92,27 +96,44 @@
   },
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
+      "write_your_thoughts": "2024-12-21 19:23:07 +0000",
+      "time_to_mine": "2024-12-21 19:18:39 +0000",
       "time_to_chop": "2024-12-21 18:46:32 +0000",
       "bake_bread": "2024-12-21 18:43:33 +0000",
       "monster_hunter": "2024-12-21 18:47:43 +0000",
+      "spooky_skeleton": "2024-12-21 19:18:00 +0000",
       "time_to_strike": "2024-12-21 18:46:38 +0000",
       "benchmarking": "2024-12-21 18:45:30 +0000",
+      "fossil_fuel": "2024-12-21 19:23:20 +0000",
+      "which_came_first": "2024-12-21 19:47:11 +0000",
+      "sir_knight": "2024-12-21 19:37:19 +0000",
+      "mining_root": "2024-12-21 19:18:39 +0000",
       "tarzan": "2024-12-21 18:42:43 +0000",
+      "not_today_thank_you": "2024-12-21 19:50:35 +0000",
+      "ew_ew_ew": "2024-12-21 19:30:10 +0000",
+      "dead_dont_die": "2024-12-21 19:28:00 +0000",
+      "shield_luck": "2024-12-21 19:50:35 +0000",
       "monsters_root": "2024-12-21 18:46:38 +0000",
       "statistics_root": "2024-12-21 18:42:36 +0000",
       "aww_it_broke": "2024-12-21 18:52:21 +0000",
+      "isnt_it_iron_pick": "2024-12-21 19:18:39 +0000",
+      "disen_berry_berry_bad": "2024-12-21 19:48:15 +0000",
+      "torched": "2024-12-21 19:21:34 +0000",
       "the_first_night": "2024-12-21 18:42:35 +0000",
       "wooly": "2024-12-21 19:02:03 +0000",
       "cow_tipper": "2024-12-21 19:02:33 +0000",
       "building_root": "2024-12-21 18:45:30 +0000",
       "just_keep_swimming": "2024-12-21 18:51:40 +0000",
+      "gold_rush": "2024-12-21 19:20:55 +0000",
       "sweet_dreams": "2024-12-21 19:16:12 +0000",
       "animal_root": "2024-12-21 18:42:43 +0000",
       "biomes_root": "2024-12-21 18:47:43 +0000",
       "bacap_root": "2024-12-21 18:42:23 +0000",
       "weaponry_root": "2024-12-21 18:46:38 +0000",
+      "under_pressure": "2024-12-21 19:24:18 +0000",
       "viking": "2024-12-21 18:47:41 +0000",
-      "adventure_root": "2024-12-21 18:47:43 +0000"
+      "adventure_root": "2024-12-21 18:47:43 +0000",
+      "an_amazing_story": "2024-12-21 19:22:52 +0000"
     },
     "done": false
   },
@@ -217,6 +238,7 @@
   },
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
+      "which_came_first": "2024-12-21 19:47:11 +0000",
       "wooly": "2024-12-21 19:02:03 +0000",
       "cow_tipper": "2024-12-21 19:02:33 +0000",
       "root": "2024-12-21 18:42:43 +0000"
@@ -226,8 +248,14 @@
   "blazeandcave:challenges/stack_all_the_items": {
     "criteria": {
       "wooden_sword": "2024-12-21 18:46:37 +0000",
+      "writable_book": "2024-12-21 19:23:07 +0000",
+      "iron_axe": "2024-12-21 19:21:15 +0000",
+      "iron_sword": "2024-12-21 19:26:01 +0000",
+      "shield": "2024-12-21 19:37:18 +0000",
       "bread": "2024-12-21 18:43:32 +0000",
-      "wooden_axe": "2024-12-21 18:46:32 +0000"
+      "wooden_axe": "2024-12-21 18:46:32 +0000",
+      "enchanted_book": "2024-12-21 19:26:14 +0000",
+      "iron_pickaxe": "2024-12-21 19:18:38 +0000"
     },
     "done": false
   },
@@ -245,22 +273,39 @@
   },
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
+      "egg": "2024-12-21 19:47:11 +0000",
       "beef": "2024-12-21 19:02:33 +0000",
       "stick": "2024-12-21 18:44:58 +0000",
       "wooden_sword": "2024-12-21 18:46:37 +0000",
+      "writable_book": "2024-12-21 19:23:07 +0000",
+      "iron_axe": "2024-12-21 19:21:15 +0000",
+      "gold_ingot": "2024-12-21 19:20:54 +0000",
       "wheat_seeds": "2024-12-21 18:57:34 +0000",
       "mutton": "2024-12-21 19:02:03 +0000",
+      "emerald": "2024-12-21 19:20:50 +0000",
+      "string": "2024-12-21 19:30:27 +0000",
       "bone": "2024-12-21 19:17:40 +0000",
+      "iron_sword": "2024-12-21 19:26:01 +0000",
       "leather": "2024-12-21 19:02:33 +0000",
+      "shield": "2024-12-21 19:37:18 +0000",
+      "ender_pearl": "2024-12-21 19:19:09 +0000",
       "bread": "2024-12-21 18:43:32 +0000",
       "arrow": "2024-12-21 19:16:43 +0000",
-      "wooden_axe": "2024-12-21 18:46:32 +0000"
+      "wooden_axe": "2024-12-21 18:46:32 +0000",
+      "written_book": "2024-12-21 19:22:52 +0000",
+      "enchanted_book": "2024-12-21 19:26:14 +0000",
+      "coal": "2024-12-21 19:23:20 +0000",
+      "sweet_berries": "2024-12-21 19:48:08 +0000",
+      "iron_pickaxe": "2024-12-21 19:18:38 +0000"
     },
     "done": false
   },
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
-      "bake_bread": "2024-12-21 18:43:33 +0000"
+      "bake_bread": "2024-12-21 18:43:33 +0000",
+      "write_your_thoughts": "2024-12-21 19:23:07 +0000",
+      "an_amazing_story": "2024-12-21 19:22:52 +0000",
+      "disen_berry_berry_bad": "2024-12-21 19:48:15 +0000"
     },
     "done": false
   },
@@ -281,7 +326,9 @@
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
       "white_wool": "2024-12-21 19:02:03 +0000",
+      "torch": "2024-12-21 19:19:37 +0000",
       "dirt": "2024-12-21 18:47:27 +0000",
+      "oak_sapling": "2024-12-21 19:34:29 +0000",
       "white_bed": "2024-12-21 19:16:27 +0000",
       "crafting_table": "2024-12-21 18:45:30 +0000"
     },
@@ -296,6 +343,7 @@
   "blazeandcave:bacap/building_milestone": {
     "criteria": {
       "sweet_dreams": "2024-12-21 19:16:12 +0000",
+      "torched": "2024-12-21 19:21:34 +0000",
       "root": "2024-12-21 18:45:30 +0000"
     },
     "done": false
@@ -333,12 +381,18 @@
   "blazeandcave:bacap/weaponry_milestone": {
     "criteria": {
       "viking": "2024-12-21 18:47:41 +0000",
-      "root": "2024-12-21 18:46:38 +0000"
+      "sir_knight": "2024-12-21 19:37:19 +0000",
+      "root": "2024-12-21 18:46:38 +0000",
+      "shield_luck": "2024-12-21 19:50:35 +0000"
     },
     "done": false
   },
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
+      "not_today_thank_you": "2024-12-21 19:50:35 +0000",
+      "spooky_skeleton": "2024-12-21 19:18:00 +0000",
+      "ew_ew_ew": "2024-12-21 19:30:10 +0000",
+      "dead_dont_die": "2024-12-21 19:28:00 +0000",
       "root": "2024-12-21 18:46:38 +0000",
       "monster_hunter": "2024-12-21 18:47:43 +0000"
     },
@@ -371,7 +425,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2024-12-21 18:47:42 +0000"
+      "minecraft:pillager": "2024-12-21 18:47:42 +0000",
+      "minecraft:skeleton": "2024-12-21 19:17:59 +0000",
+      "minecraft:spider": "2024-12-21 19:30:10 +0000",
+      "minecraft:zombie": "2024-12-21 19:27:59 +0000"
     },
     "done": false
   },
@@ -425,28 +482,44 @@
   },
   "blazeandcave:bacap/mining_milestone": {
     "criteria": {
-      "aww_it_broke": "2024-12-21 18:52:21 +0000"
+      "isnt_it_iron_pick": "2024-12-21 19:18:39 +0000",
+      "gold_rush": "2024-12-21 19:20:55 +0000",
+      "fossil_fuel": "2024-12-21 19:23:20 +0000",
+      "aww_it_broke": "2024-12-21 18:52:21 +0000",
+      "root": "2024-12-21 19:18:39 +0000"
     },
     "done": false
   },
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
+      "old_growth_birch_forest": "2024-12-21 19:18:20 +0000",
       "forest": "2024-12-21 19:03:12 +0000",
-      "plains": "2024-12-21 18:53:12 +0000"
+      "plains": "2024-12-21 18:53:12 +0000",
+      "birch_forest": "2024-12-21 19:50:26 +0000",
+      "old_growth_spruce_taiga": "2024-12-21 19:48:02 +0000"
     },
     "done": false
   },
   "blazeandcave:challenges/explorer_of_worlds": {
     "criteria": {
       "forest": "2024-12-21 19:03:12 +0000",
-      "plains": "2024-12-21 18:53:12 +0000"
+      "birch_forest": "2024-12-21 19:50:26 +0000",
+      "plains": "2024-12-21 18:53:12 +0000",
+      "meadow": "2024-12-21 19:50:19 +0000",
+      "old_growth_spruce_taiga": "2024-12-21 19:48:02 +0000",
+      "old_growth_birch_forest": "2024-12-21 19:18:20 +0000",
+      "river": "2024-12-21 19:29:05 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-21 19:03:12 +0000",
-      "plains": "2024-12-21 18:53:12 +0000"
+      "birch_forest": "2024-12-21 19:18:20 +0000",
+      "plains": "2024-12-21 18:53:12 +0000",
+      "old_growth_taiga": "2024-12-21 19:48:02 +0000",
+      "meadow": "2024-12-21 19:50:19 +0000",
+      "river": "2024-12-21 19:29:05 +0000"
     },
     "done": false
   },
@@ -458,6 +531,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "supplementaries:candy": "2024-12-21 19:23:25 +0000",
       "bread": "2024-12-21 19:01:22 +0000"
     },
     "done": false
@@ -482,6 +556,7 @@
   },
   "blazeandcave:redstone/engineer": {
     "criteria": {
+      "string": "2024-12-21 19:30:27 +0000",
       "white_wool": "2024-12-21 19:02:03 +0000"
     },
     "done": false
@@ -492,21 +567,15 @@
     },
     "done": true
   },
-  "blazeandcave:building/rainbow_dreams": {
-    "criteria": {
-      "white_bed": "2024-12-21 19:16:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-21 19:16:12 +0000"
     },
     "done": true
   },
-  "blazeandcave:challenges/death_from_all": {
+  "blazeandcave:building/rainbow_dreams": {
     "criteria": {
-      "skeleton": "2024-12-21 19:17:15 +0000"
+      "white_bed": "2024-12-21 19:16:27 +0000"
     },
     "done": false
   },
@@ -515,6 +584,176 @@
       "white_bed": "2024-12-21 19:16:27 +0000"
     },
     "done": false
+  },
+  "blazeandcave:challenges/death_from_all": {
+    "criteria": {
+      "skeleton": "2024-12-21 19:17:15 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:monsters/spooky_skeleton": {
+    "criteria": {
+      "skeleton": "2024-12-21 19:17:59 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/night_runner": {
+    "criteria": {
+      "skeleton": "2024-12-21 19:17:59 +0000",
+      "zombie": "2024-12-21 19:27:59 +0000",
+      "spider": "2024-12-21 19:30:10 +0000"
+    },
+    "done": false
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2024-12-21 19:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-21 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_mine": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-21 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/root": {
+    "criteria": {
+      "pickaxe": "2024-12-21 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/gold_rush": {
+    "criteria": {
+      "gold_ingot": "2024-12-21 19:20:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/torched": {
+    "criteria": {
+      "torch": "2024-12-21 19:21:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/an_amazing_story": {
+    "criteria": {
+      "written_book": "2024-12-21 19:22:52 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/write_your_thoughts": {
+    "criteria": {
+      "writable_book": "2024-12-21 19:23:07 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/fossil_fuel": {
+    "criteria": {
+      "coal": "2024-12-21 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-21 19:23:47 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/under_pressure": {
+    "criteria": {
+      "spruce_pressure_plate": "2024-12-21 19:24:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "under_pressure": "2024-12-21 19:24:18 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:enchanting/complete_enchanter": {
+    "criteria": {
+      "piercing_book": "2024-12-21 19:26:14 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/ultimate_enchanter": {
+    "criteria": {
+      "piercing2_book": "2024-12-21 19:26:14 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:monsters/dead_dont_die": {
+    "criteria": {
+      "zombie": "2024-12-21 19:27:59 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/wet_feet": {
+    "criteria": {
+      "river": "2024-12-21 19:29:05 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:monsters/ew_ew_ew": {
+    "criteria": {
+      "spider": "2024-12-21 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/sir_knight": {
+    "criteria": {
+      "shield": "2024-12-21 19:37:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/which_came_first": {
+    "criteria": {
+      "egg": "2024-12-21 19:47:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/master_shieldsman": {
+    "criteria": {
+      "skeleton": "2024-12-21 19:50:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_skeleton": "2024-12-21 19:50:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/high_feet": {
+    "criteria": {
+      "meadow": "2024-12-21 19:50:19 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:weaponry/shield_luck": {
+    "criteria": {
+      "deflected_trident": "2024-12-21 19:50:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/disen_berry_berry_bad": {
+    "criteria": {
+      "age1": "2024-12-21 19:48:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-12-21 19:46:28 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
