@@ -1,30 +1,9 @@
 {
-  "idas:idas_root": {
-    "criteria": {
-      "always": "2024-12-20 17:24:56 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/high_feet": {
-    "criteria": {
-      "meadow": "2024-12-20 17:25:37 +0000"
-    },
-    "done": false
-  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-12-20 17:24:32 +0000"
     },
     "done": true
-  },
-  "blazeandcave:bacap/advancement_legend": {
-    "criteria": {
-      "eeuuwww": "2024-12-20 17:25:55 +0000",
-      "biomes_root": "2024-12-20 17:25:58 +0000",
-      "bacap_root": "2024-12-20 17:24:58 +0000",
-      "adventure_root": "2024-12-20 17:25:58 +0000"
-    },
-    "done": false
   },
   "create:root": {
     "criteria": {
@@ -32,77 +11,17 @@
     },
     "done": true
   },
-  "blazeandcave:challenges/all_the_blocks": {
-    "criteria": {
-      "cobweb": "2024-12-20 17:25:54 +0000"
-    },
-    "done": false
-  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2024-12-20 17:24:32 +0000"
     },
     "done": true
   },
-  "blazeandcave:bacap/biomes_milestone": {
-    "criteria": {
-      "root": "2024-12-20 17:25:58 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:challenges/explorer_of_worlds": {
-    "criteria": {
-      "meadow": "2024-12-20 17:25:37 +0000"
-    },
-    "done": false
-  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-12-20 17:24:32 +0000"
     },
     "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-20 17:24:56 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/root": {
-    "criteria": {
-      "location": "2024-12-20 17:24:57 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/mining_milestone": {
-    "criteria": {
-      "eeuuwww": "2024-12-20 17:25:55 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:mining/eeuuwww": {
-    "criteria": {
-      "cobweb": "2024-12-20 17:25:54 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-20 17:25:58 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-20 17:24:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "rocky_meadow": "2024-12-20 17:24:57 +0000"
-    },
-    "done": false
   },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
@@ -123,11 +42,139 @@
     },
     "done": true
   },
-  "regions_unexplored:pioneer": {
+  "idas:idas_root": {
     "criteria": {
-      "rocky_meadow": "2024-12-20 17:24:57 +0000"
+      "always": "2024-12-20 17:24:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-20 17:24:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-20 17:24:56 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2024-12-20 17:24:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "pine_taiga": "2024-12-20 19:37:57 +0000",
+      "willow_forest": "2024-12-20 19:36:22 +0000",
+      "rocky_meadow": "2024-12-20 17:24:57 +0000",
+      "mountains": "2024-12-20 19:45:29 +0000",
+      "temperate_grove": "2024-12-20 19:45:48 +0000",
+      "pine_slopes": "2024-12-20 19:45:23 +0000",
+      "lupine_plains": "2024-12-20 19:37:51 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "pine_taiga": "2024-12-20 19:37:57 +0000",
+      "willow_forest": "2024-12-20 19:36:22 +0000",
+      "rocky_meadow": "2024-12-20 17:24:57 +0000",
+      "mountains": "2024-12-20 19:45:29 +0000",
+      "temperate_grove": "2024-12-20 19:45:48 +0000",
+      "pine_slopes": "2024-12-20 19:45:23 +0000",
+      "lupine_plains": "2024-12-20 19:37:51 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-20 17:24:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "suit_up": "2024-12-20 19:39:46 +0000",
+      "time_to_chop": "2024-12-20 19:37:29 +0000",
+      "bake_bread": "2024-12-20 19:38:37 +0000",
+      "acquire_hardware": "2024-12-20 19:39:46 +0000",
+      "monster_hunter": "2024-12-20 19:37:34 +0000",
+      "your_door_was_locked": "2024-12-20 19:40:28 +0000",
+      "eeuuwww": "2024-12-20 17:25:55 +0000",
+      "statistics_root": "2024-12-20 19:43:18 +0000",
+      "loot_em": "2024-12-20 19:41:09 +0000",
+      "for_you_my_sweet": "2024-12-20 19:36:43 +0000",
+      "torched": "2024-12-20 19:43:18 +0000",
+      "the_first_night": "2024-12-20 19:43:17 +0000",
+      "just_keep_swimming": "2024-12-20 19:36:43 +0000",
+      "sweet_dreams": "2024-12-20 19:43:09 +0000",
+      "animal_root": "2024-12-20 19:38:48 +0000",
+      "biomes_root": "2024-12-20 17:25:58 +0000",
+      "bacap_root": "2024-12-20 17:24:58 +0000",
+      "viking": "2024-12-20 19:37:30 +0000",
+      "adventure_root": "2024-12-20 17:25:58 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/high_feet": {
+    "criteria": {
+      "meadow": "2024-12-20 17:25:37 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "meadow": "2024-12-20 17:25:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "meadow": "2024-12-20 17:25:37 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "azure_bluet": "2024-12-20 19:36:43 +0000",
+      "cobweb": "2024-12-20 17:25:54 +0000",
+      "torch": "2024-12-20 19:42:33 +0000",
+      "poppy": "2024-12-20 19:36:43 +0000",
+      "oak_door": "2024-12-20 19:40:27 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/eeuuwww": {
+    "criteria": {
+      "cobweb": "2024-12-20 17:25:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/mining_milestone": {
+    "criteria": {
+      "suit_up": "2024-12-20 19:39:46 +0000",
+      "eeuuwww": "2024-12-20 17:25:55 +0000",
+      "acquire_hardware": "2024-12-20 19:39:46 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "just_keep_swimming": "2024-12-20 19:36:43 +0000",
+      "root": "2024-12-20 17:25:58 +0000",
+      "for_you_my_sweet": "2024-12-20 19:36:43 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-20 17:25:58 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -141,21 +188,317 @@
     },
     "done": false
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "meadow": "2024-12-20 17:25:37 +0000"
-    },
-    "done": false
-  },
   "blazeandcave:challenges/death_from_all": {
     "criteria": {
       "pillager": "2024-12-20 17:25:58 +0000"
     },
     "done": false
   },
-  "regions_unexplored:parent": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "load_in_world": "2024-12-20 17:24:57 +0000"
+      "iron_helmet": "2024-12-20 19:39:46 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/statistics_milestone": {
+    "criteria": {
+      "loot_em": "2024-12-20 19:41:09 +0000",
+      "the_first_night": "2024-12-20 19:43:17 +0000",
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/torched": {
+    "criteria": {
+      "torch": "2024-12-20 19:43:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/dungeon_crawler": {
+    "criteria": {
+      "pillager": "2024-12-20 19:37:34 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/stack_all_the_items": {
+    "criteria": {
+      "iron_helmet": "2024-12-20 19:39:44 +0000",
+      "iron_axe": "2024-12-20 19:37:28 +0000",
+      "bread": "2024-12-20 19:42:04 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/your_door_was_locked": {
+    "criteria": {
+      "door": "2024-12-20 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch2_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/viking": {
+    "criteria": {
+      "axe": "2024-12-20 19:37:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch4_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/farming_milestone": {
+    "criteria": {
+      "bake_bread": "2024-12-20 19:38:37 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/stat_branch6_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-20 19:40:41 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-12-20 19:39:46 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/bake_bread": {
+    "criteria": {
+      "bread": "2024-12-20 19:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-20 19:39:46 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/axeman": {
+    "criteria": {
+      "iron_axe": "2024-12-20 19:37:30 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/stat_branch8_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-20 19:43:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/multiclassed": {
+    "criteria": {
+      "axe": "2024-12-20 19:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-12-20 19:37:34 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/loot_em": {
+    "criteria": {
+      "trigger": "2024-12-20 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/vegetarian": {
+    "criteria": {
+      "bread": "2024-12-20 19:38:47 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/time_to_chop": {
+    "criteria": {
+      "iron_axe": "2024-12-20 19:37:28 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/a_gluttonous_diet": {
+    "criteria": {
+      "bread": "2024-12-20 19:42:04 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/engineer": {
+    "criteria": {
+      "oak_door": "2024-12-20 19:40:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-20 19:38:47 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_first_night": {
+    "criteria": {
+      "trigger": "2024-12-20 19:43:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/complete_enchanter": {
+    "criteria": {
+      "unbreaking": "2024-12-20 19:36:43 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/ultimate_enchanter": {
+    "criteria": {
+      "unbreaking1": "2024-12-20 19:36:43 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/weaponry_milestone": {
+    "criteria": {
+      "viking": "2024-12-20 19:37:30 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/stat_branch1_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "the_first_night": "2024-12-20 19:43:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch3_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/just_keep_swimming": {
+    "criteria": {
+      "enter_water": "2024-12-20 19:36:42 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch5_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "iron_helmet": "2024-12-20 19:39:44 +0000",
+      "iron_axe": "2024-12-20 19:37:28 +0000",
+      "emerald": "2024-12-20 19:38:43 +0000",
+      "apple": "2024-12-20 19:38:45 +0000",
+      "iron_ingot": "2024-12-20 19:39:46 +0000",
+      "bread": "2024-12-20 19:38:36 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/i_am_loot": {
+    "criteria": {
+      "village_plains_house": "2024-12-20 19:38:34 +0000",
+      "village_butcher": "2024-12-20 19:39:15 +0000",
+      "village_cartographer": "2024-12-20 19:39:30 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/monsters_milestone": {
+    "criteria": {
+      "monster_hunter": "2024-12-20 19:37:34 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2024-12-20 19:36:42 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/building_milestone": {
+    "criteria": {
+      "sweet_dreams": "2024-12-20 19:43:09 +0000",
+      "torched": "2024-12-20 19:43:18 +0000",
+      "your_door_was_locked": "2024-12-20 19:40:28 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/stat_branch7_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch9_mid": {
+    "criteria": {
+      "root": "2024-12-20 19:43:18 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-20 19:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "monster_hunter": "2024-12-20 19:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-20 19:38:47 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/animal_milestone": {
+    "criteria": {
+      "root": "2024-12-20 19:38:48 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/professor_oak": {
+    "criteria": {
+      "oak_door": "2024-12-20 19:40:27 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/flower_power": {
+    "criteria": {
+      "poppy": "2024-12-20 19:36:43 +0000",
+      "azure_bluet": "2024-12-20 19:36:43 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/for_you_my_sweet": {
+    "criteria": {
+      "azure_bluet": "2024-12-20 19:36:43 +0000"
     },
     "done": true
   },
