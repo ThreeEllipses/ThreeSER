@@ -957,114 +957,6 @@
     },
     "done": true
   },
-  "blazeandcave:adventure/brushed_away": {
-    "criteria": {
-      "brush": "2024-12-21 19:58:18 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/time_to_farm": {
-    "criteria": {
-      "iron_hoe": "2024-12-21 19:55:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:husbandry/turn_table": {
-    "criteria": {
-      "unlock": "2024-12-21 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/tickle_time": {
-    "criteria": {
-      "feather": "2024-12-21 20:07:20 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/twisted": {
-    "criteria": {
-      "twisting_vines": "2024-12-21 20:09:43 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/root": {
-    "criteria": {
-      "hoe": "2024-12-21 19:55:49 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:building/cherry_bomb": {
-    "criteria": {
-      "cherry_log": "2024-12-21 20:02:03 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:biomes/pretty_in_pink": {
-    "criteria": {
-      "cherry_grove": "2024-12-21 20:01:43 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/kilometre_walk": {
-    "criteria": {
-      "outer_pos_x": "2024-12-21 20:02:57 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/bamboom": {
-    "criteria": {
-      "bamboo": "2024-12-21 20:02:24 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:enchanting/armor_for_the_masses": {
-    "criteria": {
-      "projectile_protection": "2024-12-21 20:13:19 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:monsters/witch": {
-    "criteria": {
-      "witch": "2024-12-21 20:09:53 +0000"
-    },
-    "done": true
-  },
-  "idas:witches_treestump": {
-    "criteria": {
-      "in_witches_treestump": "2024-12-21 20:09:37 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/nether_milestone": {
-    "criteria": {
-      "twisted": "2024-12-21 20:09:44 +0000"
-    },
-    "done": false
-  },
-  "quark:get_bottled_cloud": {
-    "criteria": {
-      "get_bottled_cloud": "2024-12-21 20:10:11 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:building/ladder_climbers_inc": {
-    "criteria": {
-      "enter_ladder": "2024-12-21 19:58:24 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/overgrown": {
-    "criteria": {
-      "cherry_grove": "2024-12-21 20:01:43 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:statistics/spring_in_your_step": {
-    "criteria": {
-      "trigger": "2024-12-21 20:00:11 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:bacap/time_to_dig": {
     "criteria": {
       "iron_shovel": "2024-12-21 19:55:15 +0000"
@@ -1082,6 +974,132 @@
       "stone_shovel": "2024-12-21 19:55:46 +0000"
     },
     "done": false
+  },
+  "blazeandcave:bacap/time_to_farm": {
+    "criteria": {
+      "iron_hoe": "2024-12-21 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/root": {
+    "criteria": {
+      "hoe": "2024-12-21 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/brushed_away": {
+    "criteria": {
+      "brush": "2024-12-21 19:58:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/ladder_climbers_inc": {
+    "criteria": {
+      "enter_ladder": "2024-12-21 19:58:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/spring_in_your_step": {
+    "criteria": {
+      "trigger": "2024-12-21 20:00:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/pretty_in_pink": {
+    "criteria": {
+      "cherry_grove": "2024-12-21 20:01:43 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/overgrown": {
+    "criteria": {
+      "cherry_grove": "2024-12-21 20:01:43 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/cherry_bomb": {
+    "criteria": {
+      "cherry_log": "2024-12-21 20:02:03 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/bamboom": {
+    "criteria": {
+      "bamboo": "2024-12-21 20:02:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_pos_x": "2024-12-21 20:02:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/tickle_time": {
+    "criteria": {
+      "feather": "2024-12-21 20:07:20 +0000"
+    },
+    "done": true
+  },
+  "idas:witches_treestump": {
+    "criteria": {
+      "in_witches_treestump": "2024-12-21 20:09:37 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/twisted": {
+    "criteria": {
+      "twisting_vines": "2024-12-21 20:09:43 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/nether_milestone": {
+    "criteria": {
+      "twisted": "2024-12-21 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:monsters/witch": {
+    "criteria": {
+      "witch": "2024-12-21 20:09:53 +0000"
+    },
+    "done": true
+  },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2024-12-21 20:10:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/turn_table": {
+    "criteria": {
+      "unlock": "2024-12-21 20:11:10 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/armor_for_the_masses": {
+    "criteria": {
+      "projectile_protection": "2024-12-21 20:13:19 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 17:10:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 17:10:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-22 17:10:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
