@@ -68,9 +68,12 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-12-21 20:04:37 +0000",
       "pine_taiga": "2024-12-20 19:37:57 +0000",
+      "autumnal_maple_forest": "2024-12-21 20:05:00 +0000",
       "willow_forest": "2024-12-20 19:36:22 +0000",
       "rocky_meadow": "2024-12-20 17:24:57 +0000",
+      "maple_forest": "2024-12-21 20:09:50 +0000",
       "magnolia_highlands": "2024-12-21 18:47:08 +0000",
       "mountains": "2024-12-20 19:45:29 +0000",
       "boreal_forest": "2024-12-21 19:29:53 +0000",
@@ -82,9 +85,12 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-12-21 20:04:37 +0000",
       "pine_taiga": "2024-12-20 19:37:57 +0000",
+      "autumnal_maple_forest": "2024-12-21 20:05:00 +0000",
       "willow_forest": "2024-12-20 19:36:22 +0000",
       "rocky_meadow": "2024-12-20 17:24:57 +0000",
+      "maple_forest": "2024-12-21 20:09:50 +0000",
       "magnolia_highlands": "2024-12-21 18:47:08 +0000",
       "mountains": "2024-12-20 19:45:29 +0000",
       "boreal_forest": "2024-12-21 19:29:53 +0000",
@@ -105,6 +111,7 @@
       "suit_up": "2024-12-20 19:39:46 +0000",
       "click": "2024-12-21 19:23:34 +0000",
       "stone_age": "2024-12-21 19:34:41 +0000",
+      "pretty_in_pink": "2024-12-21 20:01:44 +0000",
       "time_to_mine": "2024-12-21 19:22:20 +0000",
       "time_to_chop": "2024-12-20 19:37:29 +0000",
       "bake_bread": "2024-12-20 19:38:37 +0000",
@@ -117,6 +124,7 @@
       "spring_in_your_step": "2024-12-21 20:00:12 +0000",
       "time_to_strike": "2024-12-21 19:25:46 +0000",
       "the_ender_of_ender": "2024-12-21 19:19:03 +0000",
+      "witch": "2024-12-21 20:09:54 +0000",
       "farming_root": "2024-12-21 19:55:50 +0000",
       "hot_topic": "2024-12-21 19:34:58 +0000",
       "your_door_was_locked": "2024-12-20 19:40:28 +0000",
@@ -126,9 +134,12 @@
       "mining_root": "2024-12-21 19:22:20 +0000",
       "tarzan": "2024-12-21 19:03:29 +0000",
       "ew_ew_ew": "2024-12-21 19:27:47 +0000",
+      "kilometre_walk": "2024-12-21 20:02:58 +0000",
       "dead_dont_die": "2024-12-21 19:28:01 +0000",
       "eeuuwww": "2024-12-20 17:25:55 +0000",
       "monsters_root": "2024-12-21 19:25:46 +0000",
+      "tickle_time": "2024-12-21 20:07:21 +0000",
+      "bamboom": "2024-12-21 20:02:24 +0000",
       "time_to_farm": "2024-12-21 19:55:50 +0000",
       "change_of_sheets": "2024-12-21 18:50:24 +0000",
       "statistics_root": "2024-12-20 19:43:18 +0000",
@@ -146,6 +157,7 @@
       "just_keep_swimming": "2024-12-20 19:36:43 +0000",
       "sweet_dreams": "2024-12-20 19:43:09 +0000",
       "animal_root": "2024-12-20 19:38:48 +0000",
+      "twisted": "2024-12-21 20:09:44 +0000",
       "biomes_root": "2024-12-20 17:25:58 +0000",
       "bacap_root": "2024-12-20 17:24:58 +0000",
       "weaponry_root": "2024-12-21 19:25:46 +0000",
@@ -157,6 +169,7 @@
   },
   "blazeandcave:biomes/high_feet": {
     "criteria": {
+      "snowy_slopes": "2024-12-21 20:02:53 +0000",
       "meadow": "2024-12-20 17:25:37 +0000"
     },
     "done": false
@@ -165,6 +178,8 @@
     "criteria": {
       "forest": "2024-12-21 19:03:08 +0000",
       "birch_forest": "2024-12-21 19:50:17 +0000",
+      "snowy_slopes": "2024-12-21 20:02:53 +0000",
+      "cherry_grove": "2024-12-21 20:01:43 +0000",
       "plains": "2024-12-21 18:44:09 +0000",
       "meadow": "2024-12-20 17:25:37 +0000",
       "old_growth_spruce_taiga": "2024-12-21 19:48:01 +0000",
@@ -177,6 +192,8 @@
     "criteria": {
       "forest": "2024-12-21 19:03:08 +0000",
       "birch_forest": "2024-12-21 19:18:18 +0000",
+      "snowy_slopes_or_grove": "2024-12-21 20:02:53 +0000",
+      "cherry_grove": "2024-12-21 20:01:43 +0000",
       "plains": "2024-12-21 18:44:09 +0000",
       "meadow": "2024-12-20 17:25:37 +0000",
       "old_growth_taiga": "2024-12-21 19:48:01 +0000",
@@ -191,14 +208,18 @@
       "cobweb": "2024-12-20 17:25:54 +0000",
       "spruce_pressure_plate": "2024-12-21 19:24:36 +0000",
       "oak_log": "2024-12-21 19:31:50 +0000",
+      "bamboo": "2024-12-21 20:02:24 +0000",
       "white_wool": "2024-12-21 18:44:41 +0000",
       "red_bed": "2024-12-21 18:50:23 +0000",
+      "cherry_sapling": "2024-12-21 20:02:04 +0000",
+      "cherry_log": "2024-12-21 20:02:03 +0000",
       "raw_iron_block": "2024-12-21 19:22:27 +0000",
       "furnace": "2024-12-21 19:34:58 +0000",
       "torch": "2024-12-20 19:42:33 +0000",
       "cobblestone": "2024-12-21 19:34:40 +0000",
       "oak_sapling": "2024-12-21 19:31:43 +0000",
       "white_bed": "2024-12-21 19:15:39 +0000",
+      "pink_petals": "2024-12-21 20:01:46 +0000",
       "poppy": "2024-12-20 19:36:43 +0000",
       "oak_door": "2024-12-20 19:40:27 +0000",
       "crafting_table": "2024-12-21 19:15:21 +0000",
@@ -228,8 +249,11 @@
   "blazeandcave:bacap/biomes_milestone": {
     "criteria": {
       "tarzan": "2024-12-21 19:03:29 +0000",
+      "bamboom": "2024-12-21 20:02:24 +0000",
+      "kilometre_walk": "2024-12-21 20:02:58 +0000",
       "just_keep_swimming": "2024-12-20 19:36:43 +0000",
       "root": "2024-12-20 17:25:58 +0000",
+      "pretty_in_pink": "2024-12-21 20:01:44 +0000",
       "for_you_my_sweet": "2024-12-20 19:36:43 +0000"
     },
     "done": false
@@ -274,13 +298,16 @@
   },
   "blazeandcave:enchanting/complete_enchanter": {
     "criteria": {
-      "unbreaking": "2024-12-20 19:36:43 +0000"
+      "unbreaking": "2024-12-20 19:36:43 +0000",
+      "projectile_protection": "2024-12-21 20:13:19 +0000"
     },
     "done": false
   },
   "blazeandcave:challenges/ultimate_enchanter": {
     "criteria": {
-      "unbreaking1": "2024-12-20 19:36:43 +0000"
+      "projectile_protection3": "2024-12-21 20:13:19 +0000",
+      "unbreaking1": "2024-12-20 19:36:43 +0000",
+      "unbreaking2": "2024-12-21 20:13:19 +0000"
     },
     "done": false
   },
@@ -303,15 +330,20 @@
       "iron_boots": "2024-12-21 19:38:55 +0000",
       "iron_helmet": "2024-12-20 19:39:44 +0000",
       "iron_leggings": "2024-12-21 19:37:39 +0000",
+      "saddle": "2024-12-21 20:07:14 +0000",
       "iron_axe": "2024-12-20 19:37:28 +0000",
       "brush": "2024-12-21 19:58:18 +0000",
       "stone_shovel": "2024-12-21 19:55:46 +0000",
+      "potion": "2024-12-21 20:09:54 +0000",
       "iron_chestplate": "2024-12-21 19:36:50 +0000",
       "iron_sword": "2024-12-21 19:25:45 +0000",
       "shield": "2024-12-21 19:37:12 +0000",
       "music_disc_otherside": "2024-12-21 19:19:42 +0000",
       "bread": "2024-12-20 19:42:04 +0000",
       "iron_shovel": "2024-12-21 19:55:15 +0000",
+      "wooden_axe": "2024-12-21 20:11:29 +0000",
+      "chainmail_boots": "2024-12-21 20:13:19 +0000",
+      "leather_helmet": "2024-12-21 20:09:59 +0000",
       "iron_hoe": "2024-12-21 19:55:49 +0000",
       "iron_pickaxe": "2024-12-21 19:22:20 +0000"
     },
@@ -328,10 +360,12 @@
       "beef": "2024-12-21 19:04:06 +0000",
       "stick": "2024-12-21 18:46:53 +0000",
       "wooden_sword": "2024-12-21 19:26:01 +0000",
+      "gunpowder": "2024-12-21 20:10:01 +0000",
       "bucket": "2024-12-21 19:26:26 +0000",
       "iron_boots": "2024-12-21 19:38:55 +0000",
       "iron_helmet": "2024-12-20 19:39:44 +0000",
       "iron_leggings": "2024-12-21 19:37:39 +0000",
+      "saddle": "2024-12-21 20:07:14 +0000",
       "iron_axe": "2024-12-20 19:37:28 +0000",
       "mutton": "2024-12-21 18:44:41 +0000",
       "wheat_seeds": "2024-12-21 19:30:23 +0000",
@@ -342,7 +376,9 @@
       "book": "2024-12-21 19:55:21 +0000",
       "apple": "2024-12-20 19:38:45 +0000",
       "spider_eye": "2024-12-21 19:27:47 +0000",
+      "potion": "2024-12-21 20:09:54 +0000",
       "bone": "2024-12-21 19:16:41 +0000",
+      "feather": "2024-12-21 20:07:20 +0000",
       "iron_chestplate": "2024-12-21 19:36:50 +0000",
       "experience_bottle": "2024-12-21 19:21:16 +0000",
       "iron_sword": "2024-12-21 19:25:45 +0000",
@@ -356,7 +392,11 @@
       "iron_shovel": "2024-12-21 19:55:15 +0000",
       "raw_iron": "2024-12-21 19:35:25 +0000",
       "arrow": "2024-12-21 18:47:43 +0000",
+      "wooden_axe": "2024-12-21 20:11:29 +0000",
+      "chainmail_boots": "2024-12-21 20:13:19 +0000",
+      "leather_helmet": "2024-12-21 20:09:59 +0000",
       "iron_hoe": "2024-12-21 19:55:49 +0000",
+      "chicken": "2024-12-21 20:07:22 +0000",
       "sweet_berries": "2024-12-21 19:48:17 +0000",
       "iron_pickaxe": "2024-12-21 19:22:20 +0000",
       "brick": "2024-12-21 19:21:05 +0000"
@@ -402,6 +442,7 @@
       "minecraft:pillager": "2024-12-20 19:37:34 +0000",
       "minecraft:skeleton": "2024-12-21 19:16:41 +0000",
       "minecraft:spider": "2024-12-21 19:27:47 +0000",
+      "minecraft:witch": "2024-12-21 20:09:53 +0000",
       "minecraft:enderman": "2024-12-21 19:19:03 +0000",
       "minecraft:zombie": "2024-12-21 19:28:00 +0000"
     },
@@ -414,7 +455,8 @@
       "dead_dont_die": "2024-12-21 19:28:01 +0000",
       "root": "2024-12-21 19:25:46 +0000",
       "the_ender_of_ender": "2024-12-21 19:19:03 +0000",
-      "monster_hunter": "2024-12-20 19:37:34 +0000"
+      "monster_hunter": "2024-12-20 19:37:34 +0000",
+      "witch": "2024-12-21 20:09:54 +0000"
     },
     "done": false
   },
@@ -468,6 +510,7 @@
     "criteria": {
       "wooly": "2024-12-21 18:44:41 +0000",
       "cow_tipper": "2024-12-21 19:04:07 +0000",
+      "tickle_time": "2024-12-21 20:07:21 +0000",
       "root": "2024-12-20 19:38:48 +0000"
     },
     "done": false
@@ -663,6 +706,8 @@
       "magnolia_log": "2024-12-21 18:47:28 +0000",
       "willow_log": "2024-12-21 18:48:48 +0000",
       "mauve_log": "2024-12-21 18:46:53 +0000",
+      "pine_log": "2024-12-21 20:03:12 +0000",
+      "silver_birch_log": "2024-12-21 20:04:45 +0000",
       "maple_log": "2024-12-21 19:02:10 +0000"
     },
     "done": false
@@ -733,6 +778,7 @@
     "criteria": {
       "skeleton": "2024-12-21 19:16:41 +0000",
       "zombie": "2024-12-21 19:28:00 +0000",
+      "witch": "2024-12-21 20:09:53 +0000",
       "spider": "2024-12-21 19:27:47 +0000",
       "enderman": "2024-12-21 19:19:03 +0000"
     },
@@ -802,6 +848,7 @@
   },
   "blazeandcave:potion/a_much_more_doable_challenge": {
     "criteria": {
+      "poison": "2024-12-21 20:09:54 +0000",
       "blindness": "2024-12-21 19:24:35 +0000",
       "hunger": "2024-12-21 19:28:47 +0000"
     },
@@ -869,6 +916,7 @@
   },
   "blazeandcave:building/yay_i_got_my_wood": {
     "criteria": {
+      "cherry_log": "2024-12-21 20:02:03 +0000",
       "oak_log": "2024-12-21 19:31:50 +0000"
     },
     "done": false
@@ -921,9 +969,81 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/turn_table": {
+    "criteria": {
+      "unlock": "2024-12-21 20:11:10 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/tickle_time": {
+    "criteria": {
+      "feather": "2024-12-21 20:07:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/twisted": {
+    "criteria": {
+      "twisting_vines": "2024-12-21 20:09:43 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:farming/root": {
     "criteria": {
       "hoe": "2024-12-21 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/cherry_bomb": {
+    "criteria": {
+      "cherry_log": "2024-12-21 20:02:03 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/pretty_in_pink": {
+    "criteria": {
+      "cherry_grove": "2024-12-21 20:01:43 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_pos_x": "2024-12-21 20:02:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/bamboom": {
+    "criteria": {
+      "bamboo": "2024-12-21 20:02:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/armor_for_the_masses": {
+    "criteria": {
+      "projectile_protection": "2024-12-21 20:13:19 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:monsters/witch": {
+    "criteria": {
+      "witch": "2024-12-21 20:09:53 +0000"
+    },
+    "done": true
+  },
+  "idas:witches_treestump": {
+    "criteria": {
+      "in_witches_treestump": "2024-12-21 20:09:37 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/nether_milestone": {
+    "criteria": {
+      "twisted": "2024-12-21 20:09:44 +0000"
+    },
+    "done": false
+  },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2024-12-21 20:10:11 +0000"
     },
     "done": true
   },
@@ -932,6 +1052,12 @@
       "enter_ladder": "2024-12-21 19:58:24 +0000"
     },
     "done": true
+  },
+  "blazeandcave:biomes/overgrown": {
+    "criteria": {
+      "cherry_grove": "2024-12-21 20:01:43 +0000"
+    },
+    "done": false
   },
   "blazeandcave:statistics/spring_in_your_step": {
     "criteria": {
