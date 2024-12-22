@@ -72,7 +72,10 @@
       "pine_taiga": "2024-12-20 19:37:57 +0000",
       "autumnal_maple_forest": "2024-12-21 20:05:00 +0000",
       "willow_forest": "2024-12-20 19:36:22 +0000",
+      "scorching_caves": "2024-12-22 18:53:58 +0000",
       "rocky_meadow": "2024-12-20 17:24:57 +0000",
+      "ochard": "2024-12-22 18:53:14 +0000",
+      "flower_fields": "2024-12-22 18:53:10 +0000",
       "maple_forest": "2024-12-21 20:09:50 +0000",
       "magnolia_highlands": "2024-12-21 18:47:08 +0000",
       "mountains": "2024-12-20 19:45:29 +0000",
@@ -90,6 +93,8 @@
       "autumnal_maple_forest": "2024-12-21 20:05:00 +0000",
       "willow_forest": "2024-12-20 19:36:22 +0000",
       "rocky_meadow": "2024-12-20 17:24:57 +0000",
+      "ochard": "2024-12-22 18:53:14 +0000",
+      "flower_fields": "2024-12-22 18:53:10 +0000",
       "maple_forest": "2024-12-21 20:09:50 +0000",
       "magnolia_highlands": "2024-12-21 18:47:08 +0000",
       "mountains": "2024-12-20 19:45:29 +0000",
@@ -1100,6 +1105,12 @@
       "auto": "2024-12-22 17:10:55 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2024-12-22 18:53:58 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
