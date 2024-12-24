@@ -110,12 +110,14 @@
       "time_to_mine": "2024-12-21 19:18:39 +0000",
       "time_to_chop": "2024-12-21 18:46:32 +0000",
       "bake_bread": "2024-12-21 18:43:33 +0000",
+      "getting_wood": "2024-12-24 01:46:48 +0000",
       "acquire_hardware": "2024-12-21 19:58:13 +0000",
       "monster_hunter": "2024-12-21 18:47:43 +0000",
       "spooky_skeleton": "2024-12-21 19:18:00 +0000",
       "time_to_strike": "2024-12-21 18:46:38 +0000",
       "farming_root": "2024-12-21 19:57:25 +0000",
       "horse_training": "2024-12-24 01:40:53 +0000",
+      "your_door_was_locked": "2024-12-24 01:47:55 +0000",
       "benchmarking": "2024-12-21 18:45:30 +0000",
       "time_to_dig": "2024-12-21 19:57:24 +0000",
       "fossil_fuel": "2024-12-21 19:23:20 +0000",
@@ -130,7 +132,9 @@
       "dead_dont_die": "2024-12-21 19:28:00 +0000",
       "shield_luck": "2024-12-21 19:50:35 +0000",
       "eeuuwww": "2024-12-21 20:12:32 +0000",
+      "diamonds": "2024-12-24 01:43:35 +0000",
       "monsters_root": "2024-12-21 18:46:38 +0000",
+      "diamonds_to_you": "2024-12-24 01:43:39 +0000",
       "time_to_farm": "2024-12-21 19:57:25 +0000",
       "change_of_sheets": "2024-12-21 20:11:20 +0000",
       "statistics_root": "2024-12-21 18:42:36 +0000",
@@ -364,7 +368,8 @@
       "coal": "2024-12-21 19:23:20 +0000",
       "iron_hoe": "2024-12-21 19:57:24 +0000",
       "sweet_berries": "2024-12-21 19:48:08 +0000",
-      "iron_pickaxe": "2024-12-21 19:18:38 +0000"
+      "iron_pickaxe": "2024-12-21 19:18:38 +0000",
+      "diamond": "2024-12-24 01:43:34 +0000"
     },
     "done": false
   },
@@ -400,9 +405,11 @@
       "white_wool": "2024-12-21 19:02:03 +0000",
       "red_bed": "2024-12-21 20:11:20 +0000",
       "torch": "2024-12-21 19:19:37 +0000",
+      "spruce_planks": "2024-12-24 01:46:57 +0000",
       "dirt": "2024-12-21 18:47:27 +0000",
       "oak_sapling": "2024-12-21 19:34:29 +0000",
       "white_bed": "2024-12-21 19:16:27 +0000",
+      "spruce_log": "2024-12-24 01:46:48 +0000",
       "crafting_table": "2024-12-21 18:45:30 +0000",
       "oak_fence_gate": "2024-12-21 19:55:14 +0000"
     },
@@ -421,7 +428,8 @@
       "mannequin": "2024-12-21 20:10:01 +0000",
       "torched": "2024-12-21 19:21:34 +0000",
       "root": "2024-12-21 18:45:30 +0000",
-      "ladder_climbers_inc": "2024-12-21 19:59:36 +0000"
+      "ladder_climbers_inc": "2024-12-21 19:59:36 +0000",
+      "your_door_was_locked": "2024-12-24 01:47:55 +0000"
     },
     "done": false
   },
@@ -568,8 +576,10 @@
       "gold_rush": "2024-12-21 19:20:55 +0000",
       "fossil_fuel": "2024-12-21 19:23:20 +0000",
       "eeuuwww": "2024-12-21 20:12:32 +0000",
+      "diamonds": "2024-12-24 01:43:35 +0000",
       "aww_it_broke": "2024-12-21 18:52:21 +0000",
       "acquire_hardware": "2024-12-21 19:58:13 +0000",
+      "diamonds_to_you": "2024-12-24 01:43:39 +0000",
       "root": "2024-12-21 19:18:39 +0000"
     },
     "done": false
@@ -1062,9 +1072,46 @@
     },
     "done": false
   },
+  "blazeandcave:building/your_door_was_locked": {
+    "criteria": {
+      "door": "2024-12-24 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/diamonds_to_you": {
+    "criteria": {
+      "diamonds_to_you": "2024-12-24 01:43:38 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/horse_training": {
     "criteria": {
       "trigger": "2024-12-24 01:40:52 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/spruce_lee": {
+    "criteria": {
+      "spruce_planks": "2024-12-24 01:46:57 +0000",
+      "spruce_log": "2024-12-24 01:46:48 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/yay_i_got_my_wood": {
+    "criteria": {
+      "spruce_log": "2024-12-24 01:46:48 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/getting_wood": {
+    "criteria": {
+      "spruce_log": "2024-12-24 01:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-24 01:43:34 +0000"
     },
     "done": true
   },
