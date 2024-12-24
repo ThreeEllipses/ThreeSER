@@ -68,6 +68,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-12-24 01:25:07 +0000",
       "pine_taiga": "2024-12-21 19:28:38 +0000",
       "autumnal_maple_forest": "2024-12-21 20:05:08 +0000",
       "willow_forest": "2024-12-21 18:48:13 +0000",
@@ -82,6 +83,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-12-24 01:25:07 +0000",
       "pine_taiga": "2024-12-21 19:28:38 +0000",
       "autumnal_maple_forest": "2024-12-21 20:05:08 +0000",
       "willow_forest": "2024-12-21 18:48:13 +0000",
@@ -113,6 +115,7 @@
       "spooky_skeleton": "2024-12-21 19:18:00 +0000",
       "time_to_strike": "2024-12-21 18:46:38 +0000",
       "farming_root": "2024-12-21 19:57:25 +0000",
+      "horse_training": "2024-12-24 01:40:53 +0000",
       "benchmarking": "2024-12-21 18:45:30 +0000",
       "time_to_dig": "2024-12-21 19:57:24 +0000",
       "fossil_fuel": "2024-12-21 19:23:20 +0000",
@@ -121,6 +124,7 @@
       "mining_root": "2024-12-21 19:18:39 +0000",
       "tarzan": "2024-12-21 18:42:43 +0000",
       "not_today_thank_you": "2024-12-21 19:50:35 +0000",
+      "cowboy": "2024-12-24 01:28:23 +0000",
       "ew_ew_ew": "2024-12-21 19:30:10 +0000",
       "kilometre_walk": "2024-12-21 20:02:59 +0000",
       "dead_dont_die": "2024-12-21 19:28:00 +0000",
@@ -134,11 +138,14 @@
       "aww_it_broke": "2024-12-21 18:52:21 +0000",
       "ladder_climbers_inc": "2024-12-21 19:59:36 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:18:39 +0000",
+      "bacon": "2024-12-24 01:27:56 +0000",
       "disen_berry_berry_bad": "2024-12-21 19:48:15 +0000",
       "torched": "2024-12-21 19:21:34 +0000",
       "living_like_kings": "2024-12-21 20:13:00 +0000",
       "the_first_night": "2024-12-21 18:42:35 +0000",
       "wooly": "2024-12-21 19:02:03 +0000",
+      "murderer": "2024-12-24 01:26:56 +0000",
+      "smooth_operator": "2024-12-24 01:23:46 +0000",
       "cow_tipper": "2024-12-21 19:02:33 +0000",
       "building_root": "2024-12-21 18:45:30 +0000",
       "puppies_yipe": "2024-12-21 20:13:56 +0000",
@@ -168,6 +175,7 @@
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
       "the_first_night": "2024-12-21 18:42:35 +0000",
+      "horse_training": "2024-12-24 01:40:53 +0000",
       "root": "2024-12-21 18:42:36 +0000"
     },
     "done": false
@@ -255,6 +263,7 @@
       "tarzan": "2024-12-21 18:42:43 +0000",
       "kilometre_walk": "2024-12-21 20:02:59 +0000",
       "just_keep_swimming": "2024-12-21 18:51:40 +0000",
+      "smooth_operator": "2024-12-24 01:23:46 +0000",
       "root": "2024-12-21 18:47:43 +0000",
       "pretty_in_pink": "2024-12-21 20:01:56 +0000"
     },
@@ -265,6 +274,8 @@
       "puppies_yipe": "2024-12-21 20:13:56 +0000",
       "cool_kids": "2024-12-21 20:10:40 +0000",
       "leader_of_the_pack": "2024-12-21 20:08:09 +0000",
+      "cowboy": "2024-12-24 01:28:23 +0000",
+      "bacon": "2024-12-24 01:27:56 +0000",
       "which_came_first": "2024-12-21 19:47:11 +0000",
       "wooly": "2024-12-21 19:02:03 +0000",
       "cow_tipper": "2024-12-21 19:02:33 +0000",
@@ -293,6 +304,7 @@
       "wooden_axe": "2024-12-21 18:46:32 +0000",
       "chainmail_boots": "2024-12-21 20:12:59 +0000",
       "enchanted_book": "2024-12-21 19:26:14 +0000",
+      "iron_horse_armor": "2024-12-24 01:40:52 +0000",
       "iron_hoe": "2024-12-21 19:57:24 +0000",
       "iron_pickaxe": "2024-12-21 19:18:38 +0000"
     },
@@ -348,6 +360,7 @@
       "written_book": "2024-12-21 19:22:52 +0000",
       "chainmail_boots": "2024-12-21 20:12:59 +0000",
       "enchanted_book": "2024-12-21 19:26:14 +0000",
+      "iron_horse_armor": "2024-12-24 01:40:52 +0000",
       "coal": "2024-12-21 19:23:20 +0000",
       "iron_hoe": "2024-12-21 19:57:24 +0000",
       "sweet_berries": "2024-12-21 19:48:08 +0000",
@@ -476,6 +489,7 @@
   },
   "blazeandcave:weaponry/multiclassed": {
     "criteria": {
+      "pickaxe": "2024-12-24 01:25:41 +0000",
       "axe": "2024-12-21 18:47:40 +0000",
       "sword": "2024-12-21 19:01:59 +0000"
     },
@@ -517,6 +531,7 @@
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
       "brushed_away": "2024-12-21 19:59:40 +0000",
+      "murderer": "2024-12-24 01:26:56 +0000",
       "root": "2024-12-21 18:47:43 +0000"
     },
     "done": false
@@ -986,23 +1001,11 @@
     },
     "done": false
   },
-  "idas:enchantingtower": {
-    "criteria": {
-      "in_enchantingtower": "2024-12-24 01:22:00 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-24 01:12:34 +0000"
     },
     "done": true
-  },
-  "blazeandcave:mining/mineral_collection": {
-    "criteria": {
-      "coal_block": "2024-12-24 01:18:39 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
@@ -1013,6 +1016,55 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-24 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/mineral_collection": {
+    "criteria": {
+      "coal_block": "2024-12-24 01:18:39 +0000"
+    },
+    "done": false
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-12-24 01:22:00 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/smooth_operator": {
+    "criteria": {
+      "smooth_operator": "2024-12-24 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/murderer": {
+    "criteria": {
+      "villager": "2024-12-24 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/bacon": {
+    "criteria": {
+      "pig": "2024-12-24 01:27:56 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/cowboy": {
+    "criteria": {
+      "tamed_animal": "2024-12-24 01:28:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/master_farrier": {
+    "criteria": {
+      "creamy_none": "2024-12-24 01:28:23 +0000",
+      "white_white": "2024-12-24 01:41:23 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/horse_training": {
+    "criteria": {
+      "trigger": "2024-12-24 01:40:52 +0000"
     },
     "done": true
   },
