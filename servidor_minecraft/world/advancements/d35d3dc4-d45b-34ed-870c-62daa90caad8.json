@@ -126,6 +126,7 @@
       "stone_age": "2024-12-21 19:34:41 +0000",
       "pretty_in_pink": "2024-12-21 20:01:44 +0000",
       "time_to_mine": "2024-12-21 19:22:20 +0000",
+      "its_a_trap": "2024-12-24 01:19:47 +0000",
       "time_to_chop": "2024-12-20 19:37:29 +0000",
       "bake_bread": "2024-12-20 19:38:37 +0000",
       "getting_wood": "2024-12-21 19:31:51 +0000",
@@ -143,6 +144,7 @@
       "your_door_was_locked": "2024-12-20 19:40:28 +0000",
       "benchmarking": "2024-12-21 19:15:22 +0000",
       "time_to_dig": "2024-12-21 19:55:15 +0000",
+      "fossil_fuel": "2024-12-24 01:19:54 +0000",
       "sir_knight": "2024-12-21 19:37:12 +0000",
       "mining_root": "2024-12-21 19:22:20 +0000",
       "tarzan": "2024-12-21 19:03:29 +0000",
@@ -151,6 +153,7 @@
       "dead_dont_die": "2024-12-21 19:28:01 +0000",
       "eeuuwww": "2024-12-20 17:25:55 +0000",
       "monsters_root": "2024-12-21 19:25:46 +0000",
+      "redstone_root": "2024-12-24 01:09:11 +0000",
       "tickle_time": "2024-12-21 20:07:21 +0000",
       "bamboom": "2024-12-21 20:02:24 +0000",
       "time_to_farm": "2024-12-21 19:55:50 +0000",
@@ -158,13 +161,16 @@
       "statistics_root": "2024-12-20 19:43:18 +0000",
       "brushed_away": "2024-12-21 19:58:18 +0000",
       "pathways": "2024-12-21 19:55:46 +0000",
+      "seeing_red": "2024-12-24 01:09:11 +0000",
       "ladder_climbers_inc": "2024-12-21 19:58:25 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:22:20 +0000",
       "loot_em": "2024-12-20 19:41:09 +0000",
       "for_you_my_sweet": "2024-12-20 19:36:43 +0000",
       "torched": "2024-12-20 19:43:18 +0000",
+      "basis_of_brewing": "2024-12-24 01:23:15 +0000",
       "the_first_night": "2024-12-20 19:43:17 +0000",
       "wooly": "2024-12-21 18:44:41 +0000",
+      "smooth_operator": "2024-12-24 01:23:54 +0000",
       "cow_tipper": "2024-12-21 19:04:07 +0000",
       "building_root": "2024-12-21 19:15:22 +0000",
       "just_keep_swimming": "2024-12-20 19:36:43 +0000",
@@ -220,6 +226,7 @@
       "coal_block": "2024-12-21 19:22:42 +0000",
       "cobweb": "2024-12-20 17:25:54 +0000",
       "spruce_pressure_plate": "2024-12-21 19:24:36 +0000",
+      "spruce_sapling": "2024-12-24 01:14:26 +0000",
       "oak_log": "2024-12-21 19:31:50 +0000",
       "bamboo": "2024-12-21 20:02:24 +0000",
       "white_wool": "2024-12-21 18:44:41 +0000",
@@ -234,6 +241,8 @@
       "white_bed": "2024-12-21 19:15:39 +0000",
       "pink_petals": "2024-12-21 20:01:46 +0000",
       "poppy": "2024-12-20 19:36:43 +0000",
+      "spruce_trapdoor": "2024-12-24 01:19:44 +0000",
+      "spruce_log": "2024-12-24 01:14:15 +0000",
       "oak_door": "2024-12-20 19:40:27 +0000",
       "crafting_table": "2024-12-21 19:15:21 +0000",
       "oak_planks": "2024-12-21 19:31:59 +0000"
@@ -251,9 +260,11 @@
       "suit_up": "2024-12-20 19:39:46 +0000",
       "stone_age": "2024-12-21 19:34:41 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:22:20 +0000",
+      "fossil_fuel": "2024-12-24 01:19:54 +0000",
       "eeuuwww": "2024-12-20 17:25:55 +0000",
       "acquire_hardware": "2024-12-20 19:39:46 +0000",
       "hot_topic": "2024-12-21 19:34:58 +0000",
+      "seeing_red": "2024-12-24 01:09:11 +0000",
       "root": "2024-12-21 19:22:20 +0000",
       "iron_man": "2024-12-21 19:38:57 +0000"
     },
@@ -265,6 +276,7 @@
       "bamboom": "2024-12-21 20:02:24 +0000",
       "kilometre_walk": "2024-12-21 20:02:58 +0000",
       "just_keep_swimming": "2024-12-20 19:36:43 +0000",
+      "smooth_operator": "2024-12-24 01:23:54 +0000",
       "root": "2024-12-20 17:25:58 +0000",
       "pretty_in_pink": "2024-12-21 20:01:44 +0000",
       "for_you_my_sweet": "2024-12-20 19:36:43 +0000"
@@ -312,13 +324,19 @@
   "blazeandcave:enchanting/complete_enchanter": {
     "criteria": {
       "unbreaking": "2024-12-20 19:36:43 +0000",
-      "projectile_protection": "2024-12-21 20:13:19 +0000"
+      "projectile_protection": "2024-12-21 20:13:19 +0000",
+      "efficiency_book": "2024-12-24 01:23:02 +0000",
+      "feather_falling_book": "2024-12-24 01:19:11 +0000",
+      "unbreaking_book": "2024-12-24 01:19:11 +0000"
     },
     "done": false
   },
   "blazeandcave:challenges/ultimate_enchanter": {
     "criteria": {
+      "efficiency3_book": "2024-12-24 01:23:02 +0000",
       "projectile_protection3": "2024-12-21 20:13:19 +0000",
+      "unbreaking3_book": "2024-12-24 01:19:11 +0000",
+      "feather_falling4_book": "2024-12-24 01:19:11 +0000",
       "unbreaking1": "2024-12-20 19:36:43 +0000",
       "unbreaking2": "2024-12-21 20:13:19 +0000"
     },
@@ -356,6 +374,7 @@
       "iron_shovel": "2024-12-21 19:55:15 +0000",
       "wooden_axe": "2024-12-21 20:11:29 +0000",
       "chainmail_boots": "2024-12-21 20:13:19 +0000",
+      "enchanted_book": "2024-12-24 01:19:11 +0000",
       "leather_helmet": "2024-12-21 20:09:59 +0000",
       "iron_hoe": "2024-12-21 19:55:49 +0000",
       "iron_pickaxe": "2024-12-21 19:22:20 +0000"
@@ -375,11 +394,13 @@
       "wooden_sword": "2024-12-21 19:26:01 +0000",
       "gunpowder": "2024-12-21 20:10:01 +0000",
       "bucket": "2024-12-21 19:26:26 +0000",
+      "redstone": "2024-12-24 01:09:11 +0000",
       "iron_boots": "2024-12-21 19:38:55 +0000",
       "iron_helmet": "2024-12-20 19:39:44 +0000",
       "iron_leggings": "2024-12-21 19:37:39 +0000",
       "saddle": "2024-12-21 20:07:14 +0000",
       "iron_axe": "2024-12-20 19:37:28 +0000",
+      "nether_wart": "2024-12-24 01:23:15 +0000",
       "mutton": "2024-12-21 18:44:41 +0000",
       "wheat_seeds": "2024-12-21 19:30:23 +0000",
       "brush": "2024-12-21 19:58:18 +0000",
@@ -407,6 +428,8 @@
       "arrow": "2024-12-21 18:47:43 +0000",
       "wooden_axe": "2024-12-21 20:11:29 +0000",
       "chainmail_boots": "2024-12-21 20:13:19 +0000",
+      "enchanted_book": "2024-12-24 01:19:11 +0000",
+      "coal": "2024-12-24 01:19:54 +0000",
       "leather_helmet": "2024-12-21 20:09:59 +0000",
       "iron_hoe": "2024-12-21 19:55:49 +0000",
       "chicken": "2024-12-21 20:07:22 +0000",
@@ -556,6 +579,7 @@
     "criteria": {
       "furnace": "2024-12-21 19:34:58 +0000",
       "oak_door": "2024-12-20 19:40:27 +0000",
+      "redstone": "2024-12-24 01:09:11 +0000",
       "string": "2024-12-21 19:27:47 +0000",
       "white_wool": "2024-12-21 18:44:41 +0000"
     },
@@ -573,6 +597,7 @@
     "criteria": {
       "sweet_dreams": "2024-12-20 19:43:09 +0000",
       "change_of_sheets": "2024-12-21 18:50:24 +0000",
+      "its_a_trap": "2024-12-24 01:19:47 +0000",
       "torched": "2024-12-20 19:43:18 +0000",
       "pathways": "2024-12-21 19:55:46 +0000",
       "root": "2024-12-21 19:15:22 +0000",
@@ -842,6 +867,7 @@
   },
   "blazeandcave:bacap/redstone_milestone": {
     "criteria": {
+      "root": "2024-12-24 01:09:11 +0000",
       "under_pressure": "2024-12-21 19:24:09 +0000",
       "click": "2024-12-21 19:23:34 +0000"
     },
@@ -869,6 +895,8 @@
   },
   "blazeandcave:building/spruce_lee": {
     "criteria": {
+      "spruce_trapdoor": "2024-12-24 01:19:44 +0000",
+      "spruce_log": "2024-12-24 01:14:15 +0000",
       "spruce_pressure_plate": "2024-12-21 19:24:36 +0000"
     },
     "done": false
@@ -930,7 +958,8 @@
   "blazeandcave:building/yay_i_got_my_wood": {
     "criteria": {
       "cherry_log": "2024-12-21 20:02:03 +0000",
-      "oak_log": "2024-12-21 19:31:50 +0000"
+      "oak_log": "2024-12-21 19:31:50 +0000",
+      "spruce_log": "2024-12-24 01:14:15 +0000"
     },
     "done": false
   },
@@ -1068,7 +1097,8 @@
   },
   "blazeandcave:bacap/nether_milestone": {
     "criteria": {
-      "twisted": "2024-12-21 20:09:44 +0000"
+      "twisted": "2024-12-21 20:09:44 +0000",
+      "basis_of_brewing": "2024-12-24 01:23:15 +0000"
     },
     "done": false
   },
@@ -1119,6 +1149,73 @@
       "scorching_caves": "2024-12-22 18:53:58 +0000"
     },
     "done": false
+  },
+  "blazeandcave:redstone/root": {
+    "criteria": {
+      "redstone": "2024-12-24 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/master_enchanter": {
+    "criteria": {
+      "feather_falling_book": "2024-12-24 01:19:11 +0000",
+      "unbreaking_book": "2024-12-24 01:19:11 +0000"
+    },
+    "done": false
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-24 01:16:46 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-12-24 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/its_a_trap": {
+    "criteria": {
+      "trapdoor": "2024-12-24 01:19:47 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-24 01:19:13 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/fossil_fuel": {
+    "criteria": {
+      "coal": "2024-12-24 01:19:54 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-12-24 01:16:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/basis_of_brewing": {
+    "criteria": {
+      "nether_wart": "2024-12-24 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/smooth_operator": {
+    "criteria": {
+      "smooth_operator": "2024-12-24 01:23:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/seeing_red": {
+    "criteria": {
+      "redstone": "2024-12-24 01:09:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
