@@ -3134,3 +3134,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Dec2024 19:28:33.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThreeEllipses[/127.147.101.239:56023] logged in with entity id 9897 at (477.823510955097, 73.0, -963.822271874217)
 [24Dec2024 19:28:33.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses joined the game
 [24Dec2024 19:28:44.615] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[24Dec2024 19:33:22.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_PADRINO was slain by Orca
+[24Dec2024 19:33:22.645] [Server thread/INFO] [tombstone/]: The player EL_PADRINO has successfully been saved
+[24Dec2024 19:33:24.405] [Server thread/INFO] [do_a_barrel_roll/]: Client of EL_PADRINO accepted server config.
+[24Dec2024 19:39:13.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EL_PADRINO) moved wrongly! 0.25540492443792573
+[24Dec2024 19:39:13.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EL_PADRINO) moved wrongly! 0.6541029754707548
+[24Dec2024 19:39:13.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EL_PADRINO) moved wrongly! 1.1597639645262292
+[24Dec2024 19:39:13.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EL_PADRINO) moved wrongly! 1.6983268211297153
+[24Dec2024 19:39:13.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EL_PADRINO) moved wrongly! 0.782313675136038
+[24Dec2024 19:39:45.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_PADRINO was slain by Cachalot Whale
+[24Dec2024 19:39:45.413] [Server thread/INFO] [tombstone/]: The player EL_PADRINO has successfully been saved
+[24Dec2024 19:39:46.928] [Server thread/INFO] [do_a_barrel_roll/]: Client of EL_PADRINO accepted server config.

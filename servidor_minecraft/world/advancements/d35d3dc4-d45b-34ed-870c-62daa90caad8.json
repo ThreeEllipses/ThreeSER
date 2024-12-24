@@ -163,13 +163,17 @@
       "time_to_farm": "2024-12-21 19:55:50 +0000",
       "change_of_sheets": "2024-12-21 18:50:24 +0000",
       "statistics_root": "2024-12-20 19:43:18 +0000",
+      "ahoy": "2024-12-24 19:37:18 +0000",
       "brushed_away": "2024-12-21 19:58:18 +0000",
       "pathways": "2024-12-21 19:55:46 +0000",
+      "aww_it_broke": "2024-12-24 19:37:21 +0000",
       "seeing_red": "2024-12-24 01:09:11 +0000",
       "ladder_climbers_inc": "2024-12-21 19:58:25 +0000",
+      "the_sea_calls_you": "2024-12-24 19:30:35 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:22:20 +0000",
       "loot_em": "2024-12-20 19:41:09 +0000",
       "for_you_my_sweet": "2024-12-20 19:36:43 +0000",
+      "i_hereby_dub_thee": "2024-12-24 19:37:38 +0000",
       "torched": "2024-12-20 19:43:18 +0000",
       "heart_of_darkness": "2024-12-24 16:52:27 +0000",
       "basis_of_brewing": "2024-12-24 01:23:15 +0000",
@@ -202,6 +206,7 @@
   },
   "blazeandcave:challenges/explorer_of_worlds": {
     "criteria": {
+      "cold_ocean": "2024-12-24 19:30:34 +0000",
       "forest": "2024-12-21 19:03:08 +0000",
       "birch_forest": "2024-12-21 19:50:17 +0000",
       "snowy_slopes": "2024-12-21 20:02:53 +0000",
@@ -210,6 +215,7 @@
       "meadow": "2024-12-20 17:25:37 +0000",
       "old_growth_spruce_taiga": "2024-12-21 19:48:01 +0000",
       "old_growth_birch_forest": "2024-12-21 19:18:18 +0000",
+      "beach": "2024-12-24 19:37:17 +0000",
       "river": "2024-12-21 19:29:02 +0000"
     },
     "done": false
@@ -218,11 +224,13 @@
     "criteria": {
       "forest": "2024-12-21 19:03:08 +0000",
       "birch_forest": "2024-12-21 19:18:18 +0000",
+      "cold_ocean": "2024-12-24 19:30:34 +0000",
       "snowy_slopes_or_grove": "2024-12-21 20:02:53 +0000",
       "cherry_grove": "2024-12-21 20:01:43 +0000",
       "plains": "2024-12-21 18:44:09 +0000",
       "meadow": "2024-12-20 17:25:37 +0000",
       "old_growth_taiga": "2024-12-21 19:48:01 +0000",
+      "beach": "2024-12-24 19:37:17 +0000",
       "river": "2024-12-21 19:29:02 +0000"
     },
     "done": false
@@ -234,10 +242,12 @@
       "cobweb": "2024-12-20 17:25:54 +0000",
       "spruce_pressure_plate": "2024-12-21 19:24:36 +0000",
       "spruce_sapling": "2024-12-24 01:14:26 +0000",
+      "brown_mushroom": "2024-12-24 19:34:22 +0000",
       "oak_log": "2024-12-21 19:31:50 +0000",
       "bamboo": "2024-12-21 20:02:24 +0000",
       "white_wool": "2024-12-21 18:44:41 +0000",
       "red_bed": "2024-12-21 18:50:23 +0000",
+      "birch_planks": "2024-12-24 19:38:07 +0000",
       "cherry_sapling": "2024-12-21 20:02:04 +0000",
       "cherry_log": "2024-12-21 20:02:03 +0000",
       "raw_iron_block": "2024-12-21 19:22:27 +0000",
@@ -273,6 +283,7 @@
       "fossil_fuel": "2024-12-24 01:19:54 +0000",
       "eeuuwww": "2024-12-20 17:25:55 +0000",
       "diamonds": "2024-12-24 01:40:03 +0000",
+      "aww_it_broke": "2024-12-24 19:37:21 +0000",
       "acquire_hardware": "2024-12-20 19:39:46 +0000",
       "diamonds_to_you": "2024-12-24 01:43:35 +0000",
       "hot_topic": "2024-12-21 19:34:58 +0000",
@@ -291,8 +302,10 @@
       "just_keep_swimming": "2024-12-20 19:36:43 +0000",
       "smooth_operator": "2024-12-24 01:23:54 +0000",
       "root": "2024-12-20 17:25:58 +0000",
+      "the_sea_calls_you": "2024-12-24 19:30:35 +0000",
       "pretty_in_pink": "2024-12-21 20:01:44 +0000",
-      "for_you_my_sweet": "2024-12-20 19:36:43 +0000"
+      "for_you_my_sweet": "2024-12-20 19:36:43 +0000",
+      "ahoy": "2024-12-24 19:37:18 +0000"
     },
     "done": false
   },
@@ -311,6 +324,7 @@
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
       "brushed_away": "2024-12-21 19:58:18 +0000",
+      "i_hereby_dub_thee": "2024-12-24 19:37:38 +0000",
       "root": "2024-12-20 17:25:58 +0000"
     },
     "done": false
@@ -411,6 +425,7 @@
       "bucket": "2024-12-21 19:26:26 +0000",
       "redstone": "2024-12-24 01:09:11 +0000",
       "iron_boots": "2024-12-21 19:38:55 +0000",
+      "name_tag": "2024-12-24 19:37:38 +0000",
       "iron_helmet": "2024-12-20 19:39:44 +0000",
       "iron_leggings": "2024-12-21 19:37:39 +0000",
       "saddle": "2024-12-21 20:07:14 +0000",
@@ -433,6 +448,7 @@
       "experience_bottle": "2024-12-21 19:21:16 +0000",
       "iron_sword": "2024-12-21 19:25:45 +0000",
       "leather": "2024-12-21 19:04:06 +0000",
+      "nautilus_shell": "2024-12-24 19:37:17 +0000",
       "shield": "2024-12-21 19:37:12 +0000",
       "iron_ingot": "2024-12-20 19:39:46 +0000",
       "music_disc_otherside": "2024-12-21 19:19:42 +0000",
@@ -524,7 +540,8 @@
     "criteria": {
       "village_plains_house": "2024-12-20 19:38:34 +0000",
       "village_butcher": "2024-12-20 19:39:15 +0000",
-      "village_cartographer": "2024-12-20 19:39:30 +0000"
+      "village_cartographer": "2024-12-20 19:39:30 +0000",
+      "village_temple": "2024-12-24 19:30:22 +0000"
     },
     "done": false
   },
@@ -958,7 +975,9 @@
   },
   "blazeandcave:biomes/wet_feet": {
     "criteria": {
-      "river": "2024-12-21 19:29:02 +0000"
+      "beach": "2024-12-24 19:37:17 +0000",
+      "river": "2024-12-21 19:29:02 +0000",
+      "cold_ocean": "2024-12-24 19:30:34 +0000"
     },
     "done": false
   },
@@ -1289,6 +1308,84 @@
       "enter_cave": "2024-12-24 16:52:26 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-24 19:37:30 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/the_sea_calls_you": {
+    "criteria": {
+      "ocean": "2024-12-24 19:30:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/raidin_master": {
+    "criteria": {
+      "shipwreck": "2024-12-24 19:37:17 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/professor_birch": {
+    "criteria": {
+      "birch_planks": "2024-12-24 19:38:07 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/shrooms": {
+    "criteria": {
+      "brown_mushroom": "2024-12-24 19:34:22 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:32:15 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/i_hereby_dub_thee": {
+    "criteria": {
+      "name_tag": "2024-12-24 19:37:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:32:15 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/moar_broken_tools": {
+    "criteria": {
+      "iron_axe": "2024-12-24 19:37:20 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/ahoy": {
+    "criteria": {
+      "shipwreck": "2024-12-24 19:37:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/aww_it_broke": {
+    "criteria": {
+      "break_tool": "2024-12-24 19:37:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/so_hungry_i_could_eat_a_horse": {
+    "criteria": {
+      "apple": "2024-12-24 19:33:16 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
