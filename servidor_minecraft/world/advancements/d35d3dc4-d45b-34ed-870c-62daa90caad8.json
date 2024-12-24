@@ -171,6 +171,7 @@
       "loot_em": "2024-12-20 19:41:09 +0000",
       "for_you_my_sweet": "2024-12-20 19:36:43 +0000",
       "torched": "2024-12-20 19:43:18 +0000",
+      "heart_of_darkness": "2024-12-24 16:52:27 +0000",
       "basis_of_brewing": "2024-12-24 01:23:15 +0000",
       "the_first_night": "2024-12-20 19:43:17 +0000",
       "sneaky_snitch": "2024-12-24 01:49:06 +0000",
@@ -277,6 +278,7 @@
       "hot_topic": "2024-12-21 19:34:58 +0000",
       "seeing_red": "2024-12-24 01:09:11 +0000",
       "root": "2024-12-21 19:22:20 +0000",
+      "heart_of_darkness": "2024-12-24 16:52:27 +0000",
       "iron_man": "2024-12-21 19:38:57 +0000"
     },
     "done": false
@@ -785,6 +787,7 @@
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
       "red_bed": "2024-12-21 18:50:23 +0000",
+      "dirt": "2024-12-24 01:54:14 +0000",
       "white_bed": "2024-12-21 19:15:39 +0000"
     },
     "done": false
@@ -906,9 +909,12 @@
   },
   "blazeandcave:potion/a_much_more_doable_challenge": {
     "criteria": {
+      "weakness": "2024-12-24 01:55:42 +0000",
       "poison": "2024-12-21 20:09:54 +0000",
       "blindness": "2024-12-21 19:24:35 +0000",
-      "hunger": "2024-12-21 19:28:47 +0000"
+      "slowness": "2024-12-24 16:47:38 +0000",
+      "hunger": "2024-12-21 19:28:47 +0000",
+      "wither": "2024-12-24 01:55:42 +0000"
     },
     "done": false
   },
@@ -1236,33 +1242,21 @@
     },
     "done": true
   },
-  "blazeandcave:mining/diamonds_to_you": {
-    "criteria": {
-      "diamonds_to_you": "2024-12-24 01:43:34 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/gold_rush": {
-    "criteria": {
-      "gold_ingot": "2024-12-24 01:40:02 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:statistics/horse_training": {
-    "criteria": {
-      "trigger": "2024-12-24 01:40:30 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:animal/cowboy": {
     "criteria": {
       "tamed_animal": "2024-12-24 01:38:16 +0000"
     },
     "done": true
   },
-  "blazeandcave:statistics/sneaky_snitch": {
+  "blazeandcave:animal/master_farrier": {
     "criteria": {
-      "trigger": "2024-12-24 01:49:05 +0000"
+      "white_none": "2024-12-24 01:38:16 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/gold_rush": {
+    "criteria": {
+      "gold_ingot": "2024-12-24 01:40:02 +0000"
     },
     "done": true
   },
@@ -1272,11 +1266,29 @@
     },
     "done": true
   },
-  "blazeandcave:animal/master_farrier": {
+  "blazeandcave:statistics/horse_training": {
     "criteria": {
-      "white_none": "2024-12-24 01:38:16 +0000"
+      "trigger": "2024-12-24 01:40:30 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "blazeandcave:mining/diamonds_to_you": {
+    "criteria": {
+      "diamonds_to_you": "2024-12-24 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/sneaky_snitch": {
+    "criteria": {
+      "trigger": "2024-12-24 01:49:05 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/heart_of_darkness": {
+    "criteria": {
+      "enter_cave": "2024-12-24 16:52:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

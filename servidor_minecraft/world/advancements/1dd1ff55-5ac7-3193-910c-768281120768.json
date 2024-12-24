@@ -691,6 +691,7 @@
   "blazeandcave:challenges/death_from_all": {
     "criteria": {
       "skeleton": "2024-12-21 19:17:15 +0000",
+      "zombie": "2024-12-24 01:55:25 +0000",
       "vindicator": "2024-12-21 19:51:44 +0000"
     },
     "done": false
@@ -977,7 +978,11 @@
   },
   "blazeandcave:potion/a_much_more_doable_challenge": {
     "criteria": {
-      "hunger": "2024-12-21 20:12:36 +0000"
+      "weakness": "2024-12-24 01:55:14 +0000",
+      "poison": "2024-12-24 01:55:14 +0000",
+      "slowness": "2024-12-24 01:55:12 +0000",
+      "hunger": "2024-12-21 20:12:36 +0000",
+      "wither": "2024-12-24 01:55:14 +0000"
     },
     "done": false
   },
@@ -1084,6 +1089,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 01:55:27 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/horse_training": {
     "criteria": {
       "trigger": "2024-12-24 01:40:52 +0000"
@@ -1097,15 +1108,51 @@
     },
     "done": false
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 01:55:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 01:55:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 01:55:57 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/yay_i_got_my_wood": {
     "criteria": {
       "spruce_log": "2024-12-24 01:46:48 +0000"
     },
     "done": false
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 01:55:25 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:bacap/getting_wood": {
     "criteria": {
       "spruce_log": "2024-12-24 01:46:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 01:56:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-24 01:55:27 +0000"
     },
     "done": true
   },
