@@ -122,9 +122,11 @@
       "horse_training": "2024-12-24 01:40:53 +0000",
       "your_door_was_locked": "2024-12-24 01:47:55 +0000",
       "benchmarking": "2024-12-21 18:45:30 +0000",
+      "deep_slate_nine": "2024-12-25 03:46:28 +0000",
       "time_to_dig": "2024-12-21 19:57:24 +0000",
       "aww_man": "2024-12-24 19:50:03 +0000",
       "fossil_fuel": "2024-12-21 19:23:20 +0000",
+      "strike_a_light": "2024-12-25 03:44:09 +0000",
       "meet_the_flintstones": "2024-12-24 19:44:01 +0000",
       "which_came_first": "2024-12-21 19:47:11 +0000",
       "sir_knight": "2024-12-21 19:37:19 +0000",
@@ -142,12 +144,14 @@
       "diamonds": "2024-12-24 01:43:35 +0000",
       "monsters_root": "2024-12-21 18:46:38 +0000",
       "diamonds_to_you": "2024-12-24 01:43:39 +0000",
+      "redstone_root": "2024-12-25 03:48:41 +0000",
       "time_to_farm": "2024-12-21 19:57:25 +0000",
       "change_of_sheets": "2024-12-21 20:11:20 +0000",
       "statistics_root": "2024-12-21 18:42:36 +0000",
       "ahoy": "2024-12-24 19:38:30 +0000",
       "brushed_away": "2024-12-21 19:59:40 +0000",
       "aww_it_broke": "2024-12-21 18:52:21 +0000",
+      "seeing_red": "2024-12-25 03:48:41 +0000",
       "ladder_climbers_inc": "2024-12-21 19:59:36 +0000",
       "the_sea_calls_you": "2024-12-24 19:30:19 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:18:39 +0000",
@@ -314,6 +318,7 @@
       "writable_book": "2024-12-21 19:23:07 +0000",
       "iron_boots": "2024-12-21 20:00:31 +0000",
       "stone_pickaxe": "2024-12-25 03:33:57 +0000",
+      "iron_helmet": "2024-12-25 04:02:06 +0000",
       "chainmail_chestplate": "2024-12-21 19:58:02 +0000",
       "iron_leggings": "2024-12-21 19:58:08 +0000",
       "saddle": "2024-12-21 20:05:18 +0000",
@@ -326,6 +331,7 @@
       "flint_and_steel": "2024-12-24 19:44:01 +0000",
       "shield": "2024-12-21 19:37:18 +0000",
       "leather_chestplate": "2024-12-21 20:10:01 +0000",
+      "potato": "2024-12-25 04:04:37 +0000",
       "bread": "2024-12-21 18:43:32 +0000",
       "iron_shovel": "2024-12-21 19:57:23 +0000",
       "wooden_axe": "2024-12-21 18:46:32 +0000",
@@ -346,6 +352,7 @@
   },
   "blazeandcave:farming/a_gluttonous_diet": {
     "criteria": {
+      "potato": "2024-12-25 04:04:37 +0000",
       "bread": "2024-12-21 18:43:32 +0000"
     },
     "done": false
@@ -358,9 +365,11 @@
       "stick": "2024-12-21 18:44:58 +0000",
       "wooden_sword": "2024-12-21 18:46:37 +0000",
       "writable_book": "2024-12-21 19:23:07 +0000",
+      "redstone": "2024-12-25 03:48:41 +0000",
       "iron_boots": "2024-12-21 20:00:31 +0000",
       "wheat": "2024-12-24 19:31:02 +0000",
       "stone_pickaxe": "2024-12-25 03:33:57 +0000",
+      "iron_helmet": "2024-12-25 04:02:06 +0000",
       "chainmail_chestplate": "2024-12-21 19:58:02 +0000",
       "iron_leggings": "2024-12-21 19:58:08 +0000",
       "saddle": "2024-12-21 20:05:18 +0000",
@@ -391,6 +400,7 @@
       "bread": "2024-12-21 18:43:32 +0000",
       "rotten_flesh": "2024-12-21 20:13:03 +0000",
       "iron_shovel": "2024-12-21 19:57:23 +0000",
+      "raw_iron": "2024-12-25 03:49:24 +0000",
       "arrow": "2024-12-21 19:16:43 +0000",
       "wooden_axe": "2024-12-21 18:46:32 +0000",
       "written_book": "2024-12-21 19:22:52 +0000",
@@ -620,6 +630,7 @@
   "blazeandcave:bacap/mining_milestone": {
     "criteria": {
       "living_like_kings": "2024-12-21 20:13:00 +0000",
+      "deep_slate_nine": "2024-12-25 03:46:28 +0000",
       "suit_up": "2024-12-21 19:58:13 +0000",
       "stone_age": "2024-12-25 02:35:47 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:18:39 +0000",
@@ -629,10 +640,12 @@
       "diam_oh_wait_no": "2024-12-25 03:34:23 +0000",
       "eeuuwww": "2024-12-21 20:12:32 +0000",
       "diamonds": "2024-12-24 01:43:35 +0000",
+      "strike_a_light": "2024-12-25 03:44:09 +0000",
       "meet_the_flintstones": "2024-12-24 19:44:01 +0000",
       "aww_it_broke": "2024-12-21 18:52:21 +0000",
       "acquire_hardware": "2024-12-21 19:58:13 +0000",
       "diamonds_to_you": "2024-12-24 01:43:39 +0000",
+      "seeing_red": "2024-12-25 03:48:41 +0000",
       "root": "2024-12-21 19:18:39 +0000"
     },
     "done": false
@@ -714,6 +727,7 @@
     "criteria": {
       "oak_fence_gate": "2024-12-21 19:55:14 +0000",
       "armor_stand": "2024-12-21 20:10:01 +0000",
+      "redstone": "2024-12-25 03:48:41 +0000",
       "string": "2024-12-21 19:30:27 +0000",
       "light_weighted_pressure_plate": "2024-12-24 19:43:59 +0000",
       "white_wool": "2024-12-21 19:02:03 +0000"
@@ -742,6 +756,8 @@
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
       "red_bed": "2024-12-21 20:11:20 +0000",
+      "torch": "2024-12-25 04:04:09 +0000",
+      "dirt": "2024-12-25 03:42:26 +0000",
       "cobblestone": "2024-12-25 03:32:34 +0000",
       "white_bed": "2024-12-21 19:16:27 +0000"
     },
@@ -839,6 +855,7 @@
   },
   "blazeandcave:bacap/redstone_milestone": {
     "criteria": {
+      "root": "2024-12-25 03:48:41 +0000",
       "bling_plate": "2024-12-24 19:44:00 +0000",
       "under_pressure": "2024-12-21 19:24:18 +0000"
     },
@@ -1356,7 +1373,8 @@
   },
   "blazeandcave:mining/where_are_all_your_clothes": {
     "criteria": {
-      "chainmail_chestplate": "2024-12-25 02:17:53 +0000"
+      "chainmail_chestplate": "2024-12-25 02:17:53 +0000",
+      "iron_leggings": "2024-12-25 03:52:13 +0000"
     },
     "done": false
   },
@@ -1381,12 +1399,6 @@
     },
     "done": true
   },
-  "blazeandcave:mining/diam_oh_wait_no": {
-    "criteria": {
-      "coal": "2024-12-25 03:34:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-25 03:33:57 +0000"
@@ -1396,6 +1408,42 @@
   "blazeandcave:mining/moar_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-25 03:33:57 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/diam_oh_wait_no": {
+    "criteria": {
+      "coal": "2024-12-25 03:34:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/strike_a_light": {
+    "criteria": {
+      "candle": "2024-12-25 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/deep_slate_nine": {
+    "criteria": {
+      "deepslate_level": "2024-12-25 03:46:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/root": {
+    "criteria": {
+      "redstone": "2024-12-25 03:48:41 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/seeing_red": {
+    "criteria": {
+      "redstone": "2024-12-25 03:48:41 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/let_there_be_light": {
+    "criteria": {
+      "torch": "2024-12-25 04:04:09 +0000"
     },
     "done": false
   },
