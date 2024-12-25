@@ -1926,3 +1926,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Dec2024 02:13:26.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses was slain by Raccoon
 [25Dec2024 02:13:27.169] [Server thread/INFO] [tombstone/]: The player ThreeEllipses has successfully been saved
 [25Dec2024 02:13:28.958] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[25Dec2024 02:18:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_PADRINO was slain by Raccoon
+[25Dec2024 02:18:42.099] [Server thread/INFO] [tombstone/]: The player EL_PADRINO has successfully been saved
+[25Dec2024 02:18:45.313] [Server thread/INFO] [do_a_barrel_roll/]: Client of EL_PADRINO accepted server config.
+[25Dec2024 02:33:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Dec2024 02:33:41.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chubky radius3000<--[HERE]

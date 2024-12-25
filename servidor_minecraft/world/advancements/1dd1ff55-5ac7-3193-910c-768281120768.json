@@ -528,7 +528,8 @@
     "criteria": {
       "pickaxe": "2024-12-24 01:25:41 +0000",
       "axe": "2024-12-21 18:47:40 +0000",
-      "sword": "2024-12-21 19:01:59 +0000"
+      "sword": "2024-12-21 19:01:59 +0000",
+      "hoe": "2024-12-25 02:14:53 +0000"
     },
     "done": false
   },
@@ -1331,6 +1332,12 @@
       "creeper": "2024-12-24 19:50:02 +0000"
     },
     "done": true
+  },
+  "blazeandcave:mining/where_are_all_your_clothes": {
+    "criteria": {
+      "chainmail_chestplate": "2024-12-25 02:17:53 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
