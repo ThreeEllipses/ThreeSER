@@ -145,6 +145,7 @@
       "horse_training": "2024-12-24 01:40:31 +0000",
       "your_door_was_locked": "2024-12-20 19:40:28 +0000",
       "benchmarking": "2024-12-21 19:15:22 +0000",
+      "deep_slate_nine": "2024-12-25 03:40:33 +0000",
       "time_to_dig": "2024-12-21 19:55:15 +0000",
       "fossil_fuel": "2024-12-24 01:19:54 +0000",
       "meet_the_flintstones": "2024-12-25 02:34:30 +0000",
@@ -269,6 +270,7 @@
       "red_bed": "2024-12-21 18:50:23 +0000",
       "birch_planks": "2024-12-24 19:38:07 +0000",
       "cherry_sapling": "2024-12-21 20:02:04 +0000",
+      "cobbled_deepslate": "2024-12-25 03:40:29 +0000",
       "cherry_log": "2024-12-21 20:02:03 +0000",
       "raw_iron_block": "2024-12-21 19:22:27 +0000",
       "furnace": "2024-12-21 19:34:58 +0000",
@@ -285,7 +287,8 @@
       "spruce_log": "2024-12-24 01:14:15 +0000",
       "oak_door": "2024-12-20 19:40:27 +0000",
       "crafting_table": "2024-12-21 19:15:21 +0000",
-      "oak_planks": "2024-12-21 19:31:59 +0000"
+      "oak_planks": "2024-12-21 19:31:59 +0000",
+      "granite": "2024-12-25 03:39:29 +0000"
     },
     "done": false
   },
@@ -298,6 +301,7 @@
   "blazeandcave:bacap/mining_milestone": {
     "criteria": {
       "coal_miner": "2024-12-25 02:33:11 +0000",
+      "deep_slate_nine": "2024-12-25 03:40:33 +0000",
       "suit_up": "2024-12-20 19:39:46 +0000",
       "stone_age": "2024-12-21 19:34:41 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:22:20 +0000",
@@ -1083,6 +1087,8 @@
   "blazeandcave:building/rock_collection": {
     "criteria": {
       "cobblestone": "2024-12-21 19:34:40 +0000",
+      "granite": "2024-12-25 03:39:29 +0000",
+      "cobbled_deepslate": "2024-12-25 03:40:29 +0000",
       "diorite": "2024-12-25 02:38:37 +0000"
     },
     "done": false
@@ -1424,7 +1430,8 @@
   "blazeandcave:mining/moar_broken_tools": {
     "criteria": {
       "iron_axe": "2024-12-24 19:37:20 +0000",
-      "iron_pickaxe": "2024-12-25 02:36:14 +0000"
+      "iron_pickaxe": "2024-12-25 02:36:14 +0000",
+      "stone_pickaxe": "2024-12-25 03:39:38 +0000"
     },
     "done": false
   },
@@ -1603,6 +1610,18 @@
       "torchflower_seeds": "2024-12-25 03:30:41 +0000"
     },
     "done": true
+  },
+  "blazeandcave:mining/deep_slate_nine": {
+    "criteria": {
+      "deepslate_level": "2024-12-25 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/deepslate_conspiracy": {
+    "criteria": {
+      "cobbled_deepslate": "2024-12-25 03:40:29 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -1947,3 +1947,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Dec2024 03:29:31.644] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
 [25Dec2024 03:31:38.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses lost connection: Timed out
 [25Dec2024 03:31:38.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses left the game
+[25Dec2024 03:37:10.833] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@352503df[id=<null>,name=ThreeEllipses,properties={},legacy=false] (/127.147.101.239:50333) lost connection: Disconnected
+[25Dec2024 03:37:22.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThreeEllipses[/127.147.101.239:32853] logged in with entity id 40286 at (475.27270726564836, 30.0, -890.6999999880791)
+[25Dec2024 03:37:22.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses joined the game
+[25Dec2024 03:37:34.639] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[25Dec2024 03:40:34.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Spectator Mode]
+[25Dec2024 03:40:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Survival Mode]
