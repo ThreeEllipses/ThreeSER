@@ -1942,3 +1942,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Dec2024 04:07:55.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_PADRINO was slain by Spider
 [25Dec2024 04:07:55.232] [Server thread/INFO] [tombstone/]: The player EL_PADRINO has successfully been saved
 [25Dec2024 04:07:57.371] [Server thread/INFO] [do_a_barrel_roll/]: Client of EL_PADRINO accepted server config.
+[25Dec2024 04:08:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_PADRINO was slain by Zombie
+[25Dec2024 04:08:11.014] [Server thread/INFO] [tombstone/]: The player EL_PADRINO has successfully been saved
+[25Dec2024 04:08:12.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses was slain by Zombie
+[25Dec2024 04:08:12.091] [Server thread/INFO] [tombstone/]: The player ThreeEllipses has successfully been saved
+[25Dec2024 04:08:12.823] [Server thread/INFO] [do_a_barrel_roll/]: Client of EL_PADRINO accepted server config.
+[25Dec2024 04:08:13.646] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[25Dec2024 04:15:16.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses lost connection: Disconnected
+[25Dec2024 04:15:16.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses left the game
+[25Dec2024 04:15:19.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_PADRINO lost connection: Disconnected
+[25Dec2024 04:15:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_PADRINO left the game

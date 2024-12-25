@@ -769,6 +769,7 @@
       "iron_golem": "2024-12-24 19:45:46 +0000",
       "zombie": "2024-12-24 01:55:25 +0000",
       "vindicator": "2024-12-21 19:51:44 +0000",
+      "spider": "2024-12-25 04:07:55 +0000",
       "creeper": "2024-12-24 19:50:02 +0000"
     },
     "done": false
@@ -1373,6 +1374,7 @@
   },
   "blazeandcave:mining/where_are_all_your_clothes": {
     "criteria": {
+      "golden_boots": "2024-12-25 04:07:52 +0000",
       "chainmail_chestplate": "2024-12-25 02:17:53 +0000",
       "iron_leggings": "2024-12-25 03:52:13 +0000"
     },

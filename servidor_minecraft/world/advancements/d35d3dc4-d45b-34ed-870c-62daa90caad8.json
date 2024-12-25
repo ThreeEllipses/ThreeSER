@@ -148,6 +148,7 @@
       "deep_slate_nine": "2024-12-25 03:40:33 +0000",
       "time_to_dig": "2024-12-21 19:55:15 +0000",
       "fossil_fuel": "2024-12-24 01:19:54 +0000",
+      "there_has_to_be_another_way": "2024-12-25 04:08:04 +0000",
       "meet_the_flintstones": "2024-12-25 02:34:30 +0000",
       "which_came_first": "2024-12-25 02:10:24 +0000",
       "sir_knight": "2024-12-21 19:37:12 +0000",
@@ -192,6 +193,7 @@
       "diam_oh_wait_no": "2024-12-25 03:44:04 +0000",
       "sneaky_snitch": "2024-12-24 01:49:06 +0000",
       "wooly": "2024-12-21 18:44:41 +0000",
+      "gelatinous_cube": "2024-12-25 04:09:14 +0000",
       "smooth_operator": "2024-12-24 01:23:54 +0000",
       "cow_tipper": "2024-12-21 19:04:07 +0000",
       "building_root": "2024-12-21 19:15:22 +0000",
@@ -367,6 +369,7 @@
     "criteria": {
       "pillager": "2024-12-20 17:25:58 +0000",
       "iron_golem": "2024-12-24 19:44:48 +0000",
+      "zombie": "2024-12-25 04:07:48 +0000",
       "enderman": "2024-12-21 19:18:54 +0000"
     },
     "done": false
@@ -464,6 +467,7 @@
     "criteria": {
       "egg": "2024-12-25 02:10:23 +0000",
       "beef": "2024-12-21 19:04:06 +0000",
+      "slime_ball": "2024-12-25 04:09:18 +0000",
       "stick": "2024-12-21 18:46:53 +0000",
       "wooden_sword": "2024-12-21 19:26:01 +0000",
       "gunpowder": "2024-12-21 20:10:01 +0000",
@@ -573,9 +577,11 @@
       "minecraft:vindicator": "2024-12-25 02:23:08 +0000",
       "minecraft:spider": "2024-12-21 19:27:47 +0000",
       "minecraft:creeper": "2024-12-25 02:41:02 +0000",
+      "minecraft:slime": "2024-12-25 04:09:14 +0000",
       "minecraft:witch": "2024-12-21 20:09:53 +0000",
       "minecraft:enderman": "2024-12-21 19:19:03 +0000",
-      "minecraft:zombie": "2024-12-21 19:28:00 +0000"
+      "minecraft:zombie": "2024-12-21 19:28:00 +0000",
+      "minecraft:zombie_villager": "2024-12-25 04:08:04 +0000"
     },
     "done": false
   },
@@ -584,11 +590,13 @@
       "spooky_skeleton": "2024-12-21 19:16:41 +0000",
       "ew_ew_ew": "2024-12-21 19:27:47 +0000",
       "dead_dont_die": "2024-12-21 19:28:01 +0000",
+      "gelatinous_cube": "2024-12-25 04:09:14 +0000",
       "what_a_creep": "2024-12-25 02:41:03 +0000",
       "root": "2024-12-21 19:25:46 +0000",
       "the_ender_of_ender": "2024-12-21 19:19:03 +0000",
       "monster_hunter": "2024-12-20 19:37:34 +0000",
-      "witch": "2024-12-21 20:09:54 +0000"
+      "witch": "2024-12-21 20:09:54 +0000",
+      "there_has_to_be_another_way": "2024-12-25 04:08:04 +0000"
     },
     "done": false
   },
@@ -924,9 +932,11 @@
       "skeleton": "2024-12-21 19:16:41 +0000",
       "zombie": "2024-12-21 19:28:00 +0000",
       "witch": "2024-12-21 20:09:53 +0000",
+      "zombie_villager": "2024-12-25 04:08:04 +0000",
       "spider": "2024-12-21 19:27:47 +0000",
       "creeper": "2024-12-25 02:41:02 +0000",
-      "enderman": "2024-12-21 19:19:03 +0000"
+      "enderman": "2024-12-21 19:19:03 +0000",
+      "slime": "2024-12-25 04:09:14 +0000"
     },
     "done": false
   },
@@ -1617,21 +1627,51 @@
     },
     "done": true
   },
-  "blazeandcave:mining/deep_slate_nine": {
-    "criteria": {
-      "deepslate_level": "2024-12-25 03:40:32 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:building/deepslate_conspiracy": {
     "criteria": {
       "cobbled_deepslate": "2024-12-25 03:40:29 +0000"
     },
     "done": false
   },
+  "blazeandcave:mining/deep_slate_nine": {
+    "criteria": {
+      "deepslate_level": "2024-12-25 03:40:32 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/diam_oh_wait_no": {
     "criteria": {
       "coal": "2024-12-25 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-25 04:09:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-25 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/gelatinous_cube": {
+    "criteria": {
+      "slime": "2024-12-25 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/there_has_to_be_another_way": {
+    "criteria": {
+      "zombie_villager": "2024-12-25 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-25 04:08:35 +0000"
     },
     "done": true
   },
