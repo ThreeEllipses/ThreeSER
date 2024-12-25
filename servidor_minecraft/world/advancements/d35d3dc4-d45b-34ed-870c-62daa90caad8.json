@@ -131,6 +131,7 @@
       "bake_bread": "2024-12-20 19:38:37 +0000",
       "getting_wood": "2024-12-21 19:31:51 +0000",
       "acquire_hardware": "2024-12-20 19:39:46 +0000",
+      "egging_dude": "2024-12-25 02:12:34 +0000",
       "iron_man": "2024-12-21 19:38:57 +0000",
       "care_for_the_environment": "2024-12-21 19:31:47 +0000",
       "monster_hunter": "2024-12-20 19:37:34 +0000",
@@ -146,7 +147,9 @@
       "benchmarking": "2024-12-21 19:15:22 +0000",
       "time_to_dig": "2024-12-21 19:55:15 +0000",
       "fossil_fuel": "2024-12-24 01:19:54 +0000",
+      "which_came_first": "2024-12-25 02:10:24 +0000",
       "sir_knight": "2024-12-21 19:37:12 +0000",
+      "rekt": "2024-12-24 19:44:49 +0000",
       "mining_root": "2024-12-21 19:22:20 +0000",
       "tarzan": "2024-12-21 19:03:29 +0000",
       "cowboy": "2024-12-24 01:38:16 +0000",
@@ -171,6 +174,7 @@
       "ladder_climbers_inc": "2024-12-21 19:58:25 +0000",
       "the_sea_calls_you": "2024-12-24 19:30:35 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:22:20 +0000",
+      "now_youre_thinking_with_portals": "2024-12-24 19:43:49 +0000",
       "loot_em": "2024-12-20 19:41:09 +0000",
       "for_you_my_sweet": "2024-12-20 19:36:43 +0000",
       "i_hereby_dub_thee": "2024-12-24 19:37:38 +0000",
@@ -207,6 +211,8 @@
   "blazeandcave:challenges/explorer_of_worlds": {
     "criteria": {
       "cold_ocean": "2024-12-24 19:30:34 +0000",
+      "snowy_plains": "2024-12-24 19:46:10 +0000",
+      "frozen_river": "2024-12-24 19:47:56 +0000",
       "forest": "2024-12-21 19:03:08 +0000",
       "birch_forest": "2024-12-21 19:50:17 +0000",
       "snowy_slopes": "2024-12-21 20:02:53 +0000",
@@ -230,6 +236,7 @@
       "plains": "2024-12-21 18:44:09 +0000",
       "meadow": "2024-12-20 17:25:37 +0000",
       "old_growth_taiga": "2024-12-21 19:48:01 +0000",
+      "snowy_plains": "2024-12-24 19:46:10 +0000",
       "beach": "2024-12-24 19:37:17 +0000",
       "river": "2024-12-21 19:29:02 +0000"
     },
@@ -244,8 +251,10 @@
       "spruce_sapling": "2024-12-24 01:14:26 +0000",
       "brown_mushroom": "2024-12-24 19:34:22 +0000",
       "oak_log": "2024-12-21 19:31:50 +0000",
+      "moss_carpet": "2024-12-24 19:39:55 +0000",
       "bamboo": "2024-12-21 20:02:24 +0000",
       "white_wool": "2024-12-21 18:44:41 +0000",
+      "stripped_birch_log": "2024-12-24 19:39:53 +0000",
       "red_bed": "2024-12-21 18:50:23 +0000",
       "birch_planks": "2024-12-24 19:38:07 +0000",
       "cherry_sapling": "2024-12-21 20:02:04 +0000",
@@ -323,15 +332,18 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
+      "now_youre_thinking_with_portals": "2024-12-24 19:43:49 +0000",
       "brushed_away": "2024-12-21 19:58:18 +0000",
       "i_hereby_dub_thee": "2024-12-24 19:37:38 +0000",
-      "root": "2024-12-20 17:25:58 +0000"
+      "root": "2024-12-20 17:25:58 +0000",
+      "rekt": "2024-12-24 19:44:49 +0000"
     },
     "done": false
   },
   "blazeandcave:challenges/death_from_all": {
     "criteria": {
       "pillager": "2024-12-20 17:25:58 +0000",
+      "iron_golem": "2024-12-24 19:44:48 +0000",
       "enderman": "2024-12-21 19:18:54 +0000"
     },
     "done": false
@@ -352,9 +364,11 @@
     "criteria": {
       "unbreaking": "2024-12-20 19:36:43 +0000",
       "projectile_protection": "2024-12-21 20:13:19 +0000",
+      "sharpness": "2024-12-24 19:43:54 +0000",
       "efficiency_book": "2024-12-24 01:23:02 +0000",
       "feather_falling_book": "2024-12-24 01:19:11 +0000",
-      "unbreaking_book": "2024-12-24 01:19:11 +0000"
+      "unbreaking_book": "2024-12-24 01:19:11 +0000",
+      "fortune": "2024-12-24 19:43:54 +0000"
     },
     "done": false
   },
@@ -362,10 +376,12 @@
     "criteria": {
       "efficiency3_book": "2024-12-24 01:23:02 +0000",
       "projectile_protection3": "2024-12-21 20:13:19 +0000",
+      "fortune2": "2024-12-24 19:43:54 +0000",
       "unbreaking3_book": "2024-12-24 01:19:11 +0000",
       "feather_falling4_book": "2024-12-24 01:19:11 +0000",
       "unbreaking1": "2024-12-20 19:36:43 +0000",
-      "unbreaking2": "2024-12-21 20:13:19 +0000"
+      "unbreaking2": "2024-12-21 20:13:19 +0000",
+      "sharpness3": "2024-12-24 19:43:54 +0000"
     },
     "done": false
   },
@@ -396,6 +412,7 @@
       "potion": "2024-12-21 20:09:54 +0000",
       "iron_chestplate": "2024-12-21 19:36:50 +0000",
       "iron_sword": "2024-12-21 19:25:45 +0000",
+      "tadpole_bucket": "2024-12-24 19:47:16 +0000",
       "shield": "2024-12-21 19:37:12 +0000",
       "music_disc_otherside": "2024-12-21 19:19:42 +0000",
       "bread": "2024-12-20 19:42:04 +0000",
@@ -418,6 +435,7 @@
   },
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
+      "egg": "2024-12-25 02:10:23 +0000",
       "beef": "2024-12-21 19:04:06 +0000",
       "stick": "2024-12-21 18:46:53 +0000",
       "wooden_sword": "2024-12-21 19:26:01 +0000",
@@ -448,6 +466,7 @@
       "experience_bottle": "2024-12-21 19:21:16 +0000",
       "iron_sword": "2024-12-21 19:25:45 +0000",
       "leather": "2024-12-21 19:04:06 +0000",
+      "tadpole_bucket": "2024-12-24 19:47:16 +0000",
       "nautilus_shell": "2024-12-24 19:37:17 +0000",
       "shield": "2024-12-21 19:37:12 +0000",
       "iron_ingot": "2024-12-20 19:39:46 +0000",
@@ -487,6 +506,7 @@
   },
   "blazeandcave:weaponry/multiclassed": {
     "criteria": {
+      "egg": "2024-12-25 02:12:33 +0000",
       "axe": "2024-12-20 19:37:30 +0000",
       "sword": "2024-12-21 19:39:53 +0000",
       "tnt": "2024-12-21 19:57:30 +0000"
@@ -497,6 +517,7 @@
     "criteria": {
       "viking": "2024-12-20 19:37:30 +0000",
       "sir_knight": "2024-12-21 19:37:12 +0000",
+      "egging_dude": "2024-12-25 02:12:34 +0000",
       "root": "2024-12-21 19:25:46 +0000"
     },
     "done": false
@@ -539,6 +560,8 @@
   "blazeandcave:challenges/i_am_loot": {
     "criteria": {
       "village_plains_house": "2024-12-20 19:38:34 +0000",
+      "ruined_portal": "2024-12-24 19:43:48 +0000",
+      "village_snowy_house": "2024-12-24 19:48:12 +0000",
       "village_butcher": "2024-12-20 19:39:15 +0000",
       "village_cartographer": "2024-12-20 19:39:30 +0000",
       "village_temple": "2024-12-24 19:30:22 +0000"
@@ -580,6 +603,7 @@
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
       "cowboy": "2024-12-24 01:38:16 +0000",
+      "which_came_first": "2024-12-25 02:10:24 +0000",
       "wooly": "2024-12-21 18:44:41 +0000",
       "cow_tipper": "2024-12-21 19:04:07 +0000",
       "tickle_time": "2024-12-21 20:07:21 +0000",
@@ -1309,51 +1333,15 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2024-12-24 19:37:30 +0000"
-    },
-    "done": false
-  },
   "blazeandcave:biomes/the_sea_calls_you": {
     "criteria": {
       "ocean": "2024-12-24 19:30:34 +0000"
     },
     "done": true
   },
-  "blazeandcave:adventure/raidin_master": {
-    "criteria": {
-      "shipwreck": "2024-12-24 19:37:17 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-24 19:32:26 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:building/professor_birch": {
-    "criteria": {
-      "birch_planks": "2024-12-24 19:38:07 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:farming/shrooms": {
-    "criteria": {
-      "brown_mushroom": "2024-12-24 19:34:22 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-24 19:32:15 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/i_hereby_dub_thee": {
-    "criteria": {
-      "name_tag": "2024-12-24 19:37:38 +0000"
     },
     "done": true
   },
@@ -1363,9 +1351,28 @@
     },
     "done": true
   },
-  "blazeandcave:mining/moar_broken_tools": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "iron_axe": "2024-12-24 19:37:20 +0000"
+      "coded_trigger": "2024-12-24 19:32:26 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/so_hungry_i_could_eat_a_horse": {
+    "criteria": {
+      "apple": "2024-12-24 19:33:16 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/shrooms": {
+    "criteria": {
+      "brown_mushroom": "2024-12-24 19:34:22 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/raidin_master": {
+    "criteria": {
+      "shipwreck": "2024-12-24 19:37:17 +0000",
+      "ruined_portal": "2024-12-24 19:43:47 +0000"
     },
     "done": false
   },
@@ -1375,17 +1382,127 @@
     },
     "done": true
   },
+  "blazeandcave:mining/moar_broken_tools": {
+    "criteria": {
+      "iron_axe": "2024-12-24 19:37:20 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:mining/aww_it_broke": {
     "criteria": {
       "break_tool": "2024-12-24 19:37:20 +0000"
     },
     "done": true
   },
-  "blazeandcave:animal/so_hungry_i_could_eat_a_horse": {
+  "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "apple": "2024-12-24 19:33:16 +0000"
+      "illager_camp": "2024-12-24 19:37:30 +0000"
     },
     "done": false
+  },
+  "blazeandcave:adventure/i_hereby_dub_thee": {
+    "criteria": {
+      "name_tag": "2024-12-24 19:37:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/professor_birch": {
+    "criteria": {
+      "birch_planks": "2024-12-24 19:38:07 +0000",
+      "stripped_birch_log": "2024-12-24 19:39:53 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-24 19:39:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/stripper": {
+    "criteria": {
+      "stripped_birch_log": "2024-12-24 19:39:50 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/now_youre_thinking_with_portals": {
+    "criteria": {
+      "ruined_portal": "2024-12-24 19:43:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-24 19:43:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/rekt": {
+    "criteria": {
+      "iron_golem": "2024-12-24 19:44:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:44:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:44:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 19:44:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-24 19:44:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:45:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:45:16 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/cold_feet": {
+    "criteria": {
+      "frozen_river": "2024-12-24 19:47:56 +0000",
+      "snowy_plains": "2024-12-24 19:46:10 +0000"
+    },
+    "done": false
+  },
+  "idas:winter_wagon": {
+    "criteria": {
+      "in_winter_wagon": "2024-12-24 19:46:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/which_came_first": {
+    "criteria": {
+      "egg": "2024-12-25 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/egging_dude": {
+    "criteria": {
+      "egg": "2024-12-25 02:12:33 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

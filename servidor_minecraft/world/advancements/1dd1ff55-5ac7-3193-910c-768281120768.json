@@ -113,6 +113,7 @@
       "getting_wood": "2024-12-24 01:46:48 +0000",
       "acquire_hardware": "2024-12-21 19:58:13 +0000",
       "monster_hunter": "2024-12-21 18:47:43 +0000",
+      "bling_plate": "2024-12-24 19:44:00 +0000",
       "spooky_skeleton": "2024-12-21 19:18:00 +0000",
       "time_to_strike": "2024-12-21 18:46:38 +0000",
       "farming_root": "2024-12-21 19:57:25 +0000",
@@ -120,9 +121,13 @@
       "your_door_was_locked": "2024-12-24 01:47:55 +0000",
       "benchmarking": "2024-12-21 18:45:30 +0000",
       "time_to_dig": "2024-12-21 19:57:24 +0000",
+      "aww_man": "2024-12-24 19:50:03 +0000",
       "fossil_fuel": "2024-12-21 19:23:20 +0000",
+      "meet_the_flintstones": "2024-12-24 19:44:01 +0000",
       "which_came_first": "2024-12-21 19:47:11 +0000",
       "sir_knight": "2024-12-21 19:37:19 +0000",
+      "expelliarmus": "2024-12-24 19:45:35 +0000",
+      "rekt": "2024-12-24 19:45:47 +0000",
       "mining_root": "2024-12-21 19:18:39 +0000",
       "tarzan": "2024-12-21 18:42:43 +0000",
       "not_today_thank_you": "2024-12-21 19:50:35 +0000",
@@ -138,15 +143,19 @@
       "time_to_farm": "2024-12-21 19:57:25 +0000",
       "change_of_sheets": "2024-12-21 20:11:20 +0000",
       "statistics_root": "2024-12-21 18:42:36 +0000",
+      "ahoy": "2024-12-24 19:38:30 +0000",
       "brushed_away": "2024-12-21 19:59:40 +0000",
       "aww_it_broke": "2024-12-21 18:52:21 +0000",
       "ladder_climbers_inc": "2024-12-21 19:59:36 +0000",
       "the_sea_calls_you": "2024-12-24 19:30:19 +0000",
       "isnt_it_iron_pick": "2024-12-21 19:18:39 +0000",
+      "now_youre_thinking_with_portals": "2024-12-24 19:43:53 +0000",
       "loot_em": "2024-12-24 19:31:10 +0000",
+      "for_you_my_sweet": "2024-12-24 19:47:22 +0000",
       "bacon": "2024-12-24 01:27:56 +0000",
       "disen_berry_berry_bad": "2024-12-21 19:48:15 +0000",
       "torched": "2024-12-21 19:21:34 +0000",
+      "loser": "2024-12-24 19:46:07 +0000",
       "living_like_kings": "2024-12-21 20:13:00 +0000",
       "the_first_night": "2024-12-21 18:42:35 +0000",
       "wooly": "2024-12-21 19:02:03 +0000",
@@ -273,7 +282,9 @@
       "smooth_operator": "2024-12-24 01:23:46 +0000",
       "root": "2024-12-21 18:47:43 +0000",
       "the_sea_calls_you": "2024-12-24 19:30:19 +0000",
-      "pretty_in_pink": "2024-12-21 20:01:56 +0000"
+      "pretty_in_pink": "2024-12-21 20:01:56 +0000",
+      "for_you_my_sweet": "2024-12-24 19:47:22 +0000",
+      "ahoy": "2024-12-24 19:38:30 +0000"
     },
     "done": false
   },
@@ -305,6 +316,7 @@
       "leather_leggings": "2024-12-21 20:10:01 +0000",
       "golden_boots": "2024-12-21 20:12:54 +0000",
       "iron_sword": "2024-12-21 19:26:01 +0000",
+      "flint_and_steel": "2024-12-24 19:44:01 +0000",
       "shield": "2024-12-21 19:37:18 +0000",
       "leather_chestplate": "2024-12-21 20:10:01 +0000",
       "bread": "2024-12-21 18:43:32 +0000",
@@ -314,7 +326,8 @@
       "enchanted_book": "2024-12-21 19:26:14 +0000",
       "iron_horse_armor": "2024-12-24 01:40:52 +0000",
       "iron_hoe": "2024-12-21 19:57:24 +0000",
-      "iron_pickaxe": "2024-12-21 19:18:38 +0000"
+      "iron_pickaxe": "2024-12-21 19:18:38 +0000",
+      "golden_chestplate": "2024-12-24 19:43:55 +0000"
     },
     "done": false
   },
@@ -350,6 +363,7 @@
       "mutton": "2024-12-21 19:02:03 +0000",
       "brush": "2024-12-21 19:59:40 +0000",
       "leather_leggings": "2024-12-21 20:10:01 +0000",
+      "flint": "2024-12-24 19:44:00 +0000",
       "emerald": "2024-12-21 19:20:50 +0000",
       "string": "2024-12-21 19:30:27 +0000",
       "apple": "2024-12-24 01:19:12 +0000",
@@ -357,6 +371,8 @@
       "bone": "2024-12-21 19:17:40 +0000",
       "iron_sword": "2024-12-21 19:26:01 +0000",
       "leather": "2024-12-21 19:02:33 +0000",
+      "flint_and_steel": "2024-12-24 19:44:01 +0000",
+      "nautilus_shell": "2024-12-24 19:38:29 +0000",
       "shield": "2024-12-21 19:37:18 +0000",
       "leather_chestplate": "2024-12-21 20:10:01 +0000",
       "iron_ingot": "2024-12-21 19:58:12 +0000",
@@ -375,6 +391,7 @@
       "iron_hoe": "2024-12-21 19:57:24 +0000",
       "sweet_berries": "2024-12-21 19:48:08 +0000",
       "iron_pickaxe": "2024-12-21 19:18:38 +0000",
+      "golden_chestplate": "2024-12-24 19:43:55 +0000",
       "diamond": "2024-12-24 01:43:34 +0000"
     },
     "done": false
@@ -406,6 +423,7 @@
   },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
+      "scaffolding": "2024-12-24 19:47:59 +0000",
       "coal_block": "2024-12-24 01:18:39 +0000",
       "cobweb": "2024-12-21 20:12:32 +0000",
       "white_wool": "2024-12-21 19:02:03 +0000",
@@ -415,9 +433,11 @@
       "dirt": "2024-12-21 18:47:27 +0000",
       "oak_sapling": "2024-12-21 19:34:29 +0000",
       "white_bed": "2024-12-21 19:16:27 +0000",
+      "poppy": "2024-12-24 19:47:21 +0000",
       "spruce_log": "2024-12-24 01:46:48 +0000",
       "crafting_table": "2024-12-21 18:45:30 +0000",
-      "oak_fence_gate": "2024-12-21 19:55:14 +0000"
+      "oak_fence_gate": "2024-12-21 19:55:14 +0000",
+      "light_weighted_pressure_plate": "2024-12-24 19:43:59 +0000"
     },
     "done": false
   },
@@ -474,12 +494,15 @@
       "viking": "2024-12-21 18:47:41 +0000",
       "sir_knight": "2024-12-21 19:37:19 +0000",
       "root": "2024-12-21 18:46:38 +0000",
+      "loser": "2024-12-24 19:46:07 +0000",
+      "expelliarmus": "2024-12-24 19:45:35 +0000",
       "shield_luck": "2024-12-21 19:50:35 +0000"
     },
     "done": false
   },
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
+      "aww_man": "2024-12-24 19:50:03 +0000",
       "not_today_thank_you": "2024-12-21 19:50:35 +0000",
       "spooky_skeleton": "2024-12-21 19:18:00 +0000",
       "ew_ew_ew": "2024-12-21 19:30:10 +0000",
@@ -544,9 +567,11 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
+      "now_youre_thinking_with_portals": "2024-12-24 19:43:53 +0000",
       "brushed_away": "2024-12-21 19:59:40 +0000",
       "murderer": "2024-12-24 01:26:56 +0000",
-      "root": "2024-12-21 18:47:43 +0000"
+      "root": "2024-12-21 18:47:43 +0000",
+      "rekt": "2024-12-24 19:45:47 +0000"
     },
     "done": false
   },
@@ -583,6 +608,7 @@
       "fossil_fuel": "2024-12-21 19:23:20 +0000",
       "eeuuwww": "2024-12-21 20:12:32 +0000",
       "diamonds": "2024-12-24 01:43:35 +0000",
+      "meet_the_flintstones": "2024-12-24 19:44:01 +0000",
       "aww_it_broke": "2024-12-21 18:52:21 +0000",
       "acquire_hardware": "2024-12-21 19:58:13 +0000",
       "diamonds_to_you": "2024-12-24 01:43:39 +0000",
@@ -612,6 +638,7 @@
       "old_growth_spruce_taiga": "2024-12-21 19:48:02 +0000",
       "old_growth_birch_forest": "2024-12-21 19:18:20 +0000",
       "grove": "2024-12-21 20:01:50 +0000",
+      "beach": "2024-12-24 19:38:29 +0000",
       "river": "2024-12-21 19:29:05 +0000"
     },
     "done": false
@@ -626,6 +653,7 @@
       "plains": "2024-12-21 18:53:12 +0000",
       "old_growth_taiga": "2024-12-21 19:48:02 +0000",
       "meadow": "2024-12-21 19:50:19 +0000",
+      "beach": "2024-12-24 19:38:29 +0000",
       "river": "2024-12-21 19:29:05 +0000"
     },
     "done": false
@@ -666,6 +694,7 @@
       "oak_fence_gate": "2024-12-21 19:55:14 +0000",
       "armor_stand": "2024-12-21 20:10:01 +0000",
       "string": "2024-12-21 19:30:27 +0000",
+      "light_weighted_pressure_plate": "2024-12-24 19:43:59 +0000",
       "white_wool": "2024-12-21 19:02:03 +0000"
     },
     "done": false
@@ -699,8 +728,10 @@
   "blazeandcave:challenges/death_from_all": {
     "criteria": {
       "skeleton": "2024-12-21 19:17:15 +0000",
+      "iron_golem": "2024-12-24 19:45:46 +0000",
       "zombie": "2024-12-24 01:55:25 +0000",
-      "vindicator": "2024-12-21 19:51:44 +0000"
+      "vindicator": "2024-12-21 19:51:44 +0000",
+      "creeper": "2024-12-24 19:50:02 +0000"
     },
     "done": false
   },
@@ -786,6 +817,7 @@
   },
   "blazeandcave:bacap/redstone_milestone": {
     "criteria": {
+      "bling_plate": "2024-12-24 19:44:00 +0000",
       "under_pressure": "2024-12-21 19:24:18 +0000"
     },
     "done": false
@@ -794,6 +826,7 @@
     "criteria": {
       "unbreaking": "2024-12-21 20:12:59 +0000",
       "projectile_protection": "2024-12-21 20:12:59 +0000",
+      "protection": "2024-12-24 19:43:55 +0000",
       "frost_walker": "2024-12-21 20:12:54 +0000",
       "piercing_book": "2024-12-21 19:26:14 +0000"
     },
@@ -802,7 +835,9 @@
   "blazeandcave:challenges/ultimate_enchanter": {
     "criteria": {
       "projectile_protection3": "2024-12-21 20:12:59 +0000",
+      "protection2": "2024-12-24 19:43:55 +0000",
       "piercing2_book": "2024-12-21 19:26:14 +0000",
+      "unbreaking1": "2024-12-24 19:47:21 +0000",
       "unbreaking2": "2024-12-21 20:12:59 +0000",
       "frost_walker2": "2024-12-21 20:12:54 +0000"
     },
@@ -816,6 +851,7 @@
   },
   "blazeandcave:biomes/wet_feet": {
     "criteria": {
+      "beach": "2024-12-24 19:38:29 +0000",
       "river": "2024-12-21 19:29:05 +0000",
       "cold_ocean": "2024-12-24 19:30:18 +0000"
     },
@@ -1003,6 +1039,7 @@
   },
   "blazeandcave:enchanting/armor_for_the_masses": {
     "criteria": {
+      "protection": "2024-12-24 19:43:55 +0000",
       "projectile_protection": "2024-12-21 20:12:59 +0000"
     },
     "done": false
@@ -1171,11 +1208,13 @@
     },
     "done": true
   },
-  "blazeandcave:biomes/the_sea_calls_you": {
+  "blazeandcave:challenges/i_am_loot": {
     "criteria": {
-      "ocean": "2024-12-24 19:30:18 +0000"
+      "village_plains_house": "2024-12-24 19:28:51 +0000",
+      "village_cartographer": "2024-12-24 19:30:49 +0000",
+      "village_temple": "2024-12-24 19:28:41 +0000"
     },
-    "done": true
+    "done": false
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
@@ -1183,9 +1222,21 @@
     },
     "done": true
   },
+  "blazeandcave:biomes/the_sea_calls_you": {
+    "criteria": {
+      "ocean": "2024-12-24 19:30:18 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/loot_em": {
     "criteria": {
       "trigger": "2024-12-24 19:31:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:33:39 +0000"
     },
     "done": true
   },
@@ -1196,17 +1247,88 @@
     },
     "done": false
   },
-  "blazeandcave:challenges/i_am_loot": {
+  "blazeandcave:adventure/raidin_master": {
     "criteria": {
-      "village_plains_house": "2024-12-24 19:28:51 +0000",
-      "village_cartographer": "2024-12-24 19:30:49 +0000",
-      "village_temple": "2024-12-24 19:28:41 +0000"
+      "shipwreck": "2024-12-24 19:38:29 +0000",
+      "ruined_portal": "2024-12-24 19:43:51 +0000"
     },
     "done": false
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "blazeandcave:biomes/ahoy": {
     "criteria": {
-      "coded_trigger": "2024-12-24 19:33:39 +0000"
+      "shipwreck": "2024-12-24 19:38:29 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-24 19:38:37 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-24 19:40:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/now_youre_thinking_with_portals": {
+    "criteria": {
+      "ruined_portal": "2024-12-24 19:43:51 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/bling_plate": {
+    "criteria": {
+      "light_weighted_pressure_plate": "2024-12-24 19:43:59 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/meet_the_flintstones": {
+    "criteria": {
+      "flint": "2024-12-24 19:44:00 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/expelliarmus": {
+    "criteria": {
+      "stick": "2024-12-24 19:45:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/rekt": {
+    "criteria": {
+      "iron_golem": "2024-12-24 19:45:46 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/loser": {
+    "criteria": {
+      "trigger": "2024-12-24 19:46:07 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/flower_power": {
+    "criteria": {
+      "poppy": "2024-12-24 19:47:21 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/for_you_my_sweet": {
+    "criteria": {
+      "poppy": "2024-12-24 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 19:48:51 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/aww_man": {
+    "criteria": {
+      "creeper": "2024-12-24 19:50:02 +0000"
     },
     "done": true
   },
