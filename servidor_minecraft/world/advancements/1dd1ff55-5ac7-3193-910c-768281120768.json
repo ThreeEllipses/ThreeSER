@@ -598,7 +598,8 @@
   },
   "blazeandcave:mining/moar_broken_tools": {
     "criteria": {
-      "wooden_axe": "2024-12-21 18:52:20 +0000"
+      "wooden_axe": "2024-12-21 18:52:20 +0000",
+      "wooden_pickaxe": "2024-12-25 03:30:58 +0000"
     },
     "done": false
   },
@@ -1342,6 +1343,12 @@
     },
     "done": true
   },
+  "blazeandcave:mining/where_are_all_your_clothes": {
+    "criteria": {
+      "chainmail_chestplate": "2024-12-25 02:17:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "cobblestone": "2024-12-25 02:35:47 +0000"
@@ -1360,12 +1367,6 @@
       "trigger": "2024-12-25 02:40:45 +0000"
     },
     "done": true
-  },
-  "blazeandcave:mining/where_are_all_your_clothes": {
-    "criteria": {
-      "chainmail_chestplate": "2024-12-25 02:17:53 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
