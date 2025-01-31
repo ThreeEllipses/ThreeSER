@@ -144,7 +144,7 @@
     "groupMax": 4
   },
   "moobloom": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4
