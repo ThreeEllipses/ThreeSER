@@ -13089,3 +13089,197 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31Jan2025 21:19:00.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 4225 chunks (100.00%), Total time: 0:01:20
 [31Jan2025 21:20:19.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/763, l='ServerLevel[world]', x=6.52, y=77.00, z=113.71] died, message: 'Villager was shot by Pillager'
 [31Jan2025 21:20:44.635] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/730, l='ServerLevel[world]', x=-5.09, y=71.00, z=74.91] died, message: 'Villager was shot by Pillager'
+[31Jan2025 21:23:03.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 21:23:03.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 21:28:03.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 21:28:03.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 21:31:03.710] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle]] from pos BlockPos{x=389, y=67, z=5}
+[31Jan2025 21:33:03.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 21:33:03.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 21:33:18.560] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[31Jan2025 21:33:18.630] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[31Jan2025 21:33:29.719] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[31Jan2025 21:33:46.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/777, l='ServerLevel[world]', x=101.27, y=68.00, z=69.28] died, message: 'Fisherman was slain by Komodo Dragon'
+[31Jan2025 21:33:52.852] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_stairs
+[31Jan2025 21:33:52.856] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_3
+[31Jan2025 21:33:52.856] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_5
+[31Jan2025 21:33:52.860] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_21
+[31Jan2025 21:33:52.864] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_17
+[31Jan2025 21:33:52.867] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_15
+[31Jan2025 21:33:52.869] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_18
+[31Jan2025 21:33:52.871] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_9
+[31Jan2025 21:33:52.872] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_stairs_1
+[31Jan2025 21:33:52.874] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_stairs_3
+[31Jan2025 21:33:52.876] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_12
+[31Jan2025 21:33:52.877] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_4
+[31Jan2025 21:33:52.879] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_14
+[31Jan2025 21:33:52.881] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_10
+[31Jan2025 21:33:52.883] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_19
+[31Jan2025 21:33:52.885] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_13
+[31Jan2025 21:33:52.887] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_stairs_4
+[31Jan2025 21:33:52.888] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_7
+[31Jan2025 21:33:52.891] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_6
+[31Jan2025 21:33:52.892] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_16
+[31Jan2025 21:33:52.896] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_2
+[31Jan2025 21:33:52.899] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_20
+[31Jan2025 21:33:52.907] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_1
+[31Jan2025 21:33:52.909] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_11
+[31Jan2025 21:33:52.910] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_stairs_2
+[31Jan2025 21:33:52.911] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_8
+[31Jan2025 21:33:52.911] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_fail_2
+[31Jan2025 21:33:52.912] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_fail_1
+[31Jan2025 21:33:52.913] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_creeper
+[31Jan2025 21:33:52.915] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_zombie
+[31Jan2025 21:33:52.916] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_mob_fail
+[31Jan2025 21:33:52.919] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_skeleton
+[31Jan2025 21:33:52.922] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_spider
+[31Jan2025 21:34:02.897] [pool-5-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_christmas], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna_na], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga]] from pos BlockPos{x=651, y=69, z=117}
+[31Jan2025 21:34:03.997] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of idas:witches_treestump/witches_treestump
+[31Jan2025 21:34:04.482] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse
+[31Jan2025 21:34:04.543] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/yellowwizardtower1
+[31Jan2025 21:34:04.558] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/yellowwizardtower2
+[31Jan2025 21:34:04.752] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of idas:hermits_hollow/hermits_hollow
+[31Jan2025 21:34:09.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3820ms or 76 ticks behind
+[31Jan2025 21:34:09.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses moved too quickly! 10.108815612834064,-0.24918707874468282,1.7326215631877417
+[31Jan2025 21:34:09.951] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/roads/straight
+[31Jan2025 21:34:09.954] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/roads/t_1
+[31Jan2025 21:34:09.956] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/house/small_1
+[31Jan2025 21:34:09.957] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/house/small_2
+[31Jan2025 21:34:09.959] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/house/med_1
+[31Jan2025 21:34:09.960] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/house/med_2
+[31Jan2025 21:34:09.961] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/butcher
+[31Jan2025 21:34:09.961] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/cartographer
+[31Jan2025 21:34:09.963] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/chemist
+[31Jan2025 21:34:09.964] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/fishing_house
+[31Jan2025 21:34:09.965] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/library
+[31Jan2025 21:34:09.966] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/loomhouse
+[31Jan2025 21:34:09.966] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/mason
+[31Jan2025 21:34:09.967] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/farm
+[31Jan2025 21:34:09.968] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/smith
+[31Jan2025 21:34:09.969] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/jobsite/fd_farm
+[31Jan2025 21:34:09.970] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/decos/lamp_1
+[31Jan2025 21:34:09.970] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/decos/lamp_2
+[31Jan2025 21:34:09.971] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/decos/lamp_3
+[31Jan2025 21:34:09.971] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/decos/lamp_4
+[31Jan2025 21:34:09.971] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/decos/well
+[31Jan2025 21:34:09.972] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/decos/hay_bale
+[31Jan2025 21:34:09.972] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/decos/wagon
+[31Jan2025 21:34:09.973] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/deco/beekeeper
+[31Jan2025 21:34:09.973] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/deco/copper_golem
+[31Jan2025 21:34:09.994] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/roads/inter
+[31Jan2025 21:34:10.149] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/roads/bent_1
+[31Jan2025 21:34:10.214] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/roads/t_2
+[31Jan2025 21:34:10.214] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/roads/bent_2
+[31Jan2025 21:34:10.215] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/roads/t_3
+[31Jan2025 21:34:10.215] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mushroom/roads/terminator
+[31Jan2025 21:34:12.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses lost connection: Disconnected
+[31Jan2025 21:34:12.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses left the game
+[31Jan2025 21:34:12.743] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/purplewizardtower1
+[31Jan2025 21:34:12.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/purplewizardtower2
+[31Jan2025 21:34:13.935] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of idas:redhorn_guild/redhorn_guild
+[31Jan2025 21:34:14.673] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/redwizardtower1
+[31Jan2025 21:34:14.682] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/redwizardtower2
+[31Jan2025 21:34:15.470] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/t_1
+[31Jan2025 21:34:15.470] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/hut_1
+[31Jan2025 21:34:15.471] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/hut_2
+[31Jan2025 21:34:15.471] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/longhouse_1
+[31Jan2025 21:34:15.472] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/longhouse_2
+[31Jan2025 21:34:15.473] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/longhouse_3
+[31Jan2025 21:34:15.474] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/longhouse_4
+[31Jan2025 21:34:15.475] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/tipi_1
+[31Jan2025 21:34:15.476] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/tipi_2
+[31Jan2025 21:34:15.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/butcher
+[31Jan2025 21:34:15.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/chemist
+[31Jan2025 21:34:15.478] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/farm
+[31Jan2025 21:34:15.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/fishing_hut
+[31Jan2025 21:34:15.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/library
+[31Jan2025 21:34:15.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/mason
+[31Jan2025 21:34:15.481] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/cartographer
+[31Jan2025 21:34:15.482] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/loomhouse
+[31Jan2025 21:34:15.483] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/smith
+[31Jan2025 21:34:15.484] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/tannery
+[31Jan2025 21:34:15.485] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/fd_farm
+[31Jan2025 21:34:15.485] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/well
+[31Jan2025 21:34:15.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_1
+[31Jan2025 21:34:15.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_2
+[31Jan2025 21:34:15.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_3
+[31Jan2025 21:34:15.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_4
+[31Jan2025 21:34:15.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_5
+[31Jan2025 21:34:15.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/beekeeper
+[31Jan2025 21:34:15.488] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/copper_golem
+[31Jan2025 21:34:15.491] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/straight
+[31Jan2025 21:34:15.557] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/bent_2
+[31Jan2025 21:34:15.560] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/inter
+[31Jan2025 21:34:15.560] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/bent_1
+[31Jan2025 21:34:15.579] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/t_2
+[31Jan2025 21:34:15.815] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/t_3
+[31Jan2025 21:34:15.815] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/terminator
+[31Jan2025 21:34:17.031] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/inter
+[31Jan2025 21:34:17.032] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_1
+[31Jan2025 21:34:17.033] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_2
+[31Jan2025 21:34:17.034] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_3
+[31Jan2025 21:34:17.034] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_1
+[31Jan2025 21:34:17.035] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_2
+[31Jan2025 21:34:17.036] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_1
+[31Jan2025 21:34:17.037] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_2
+[31Jan2025 21:34:17.038] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/tannery
+[31Jan2025 21:34:17.038] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/library
+[31Jan2025 21:34:17.039] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/butcher
+[31Jan2025 21:34:17.040] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/cartographer
+[31Jan2025 21:34:17.041] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/chemist
+[31Jan2025 21:34:17.042] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/fishing_hut
+[31Jan2025 21:34:17.042] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/mason
+[31Jan2025 21:34:17.043] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/shepherd
+[31Jan2025 21:34:17.044] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/smith
+[31Jan2025 21:34:17.045] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/farm
+[31Jan2025 21:34:17.046] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/fd_farm
+[31Jan2025 21:34:17.046] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/bench
+[31Jan2025 21:34:17.047] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/campfire
+[31Jan2025 21:34:17.047] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/flower_pot
+[31Jan2025 21:34:17.047] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/fountain
+[31Jan2025 21:34:17.047] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/well
+[31Jan2025 21:34:17.048] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_1
+[31Jan2025 21:34:17.048] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_2
+[31Jan2025 21:34:17.048] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_3
+[31Jan2025 21:34:17.048] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_4
+[31Jan2025 21:34:17.049] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_5
+[31Jan2025 21:34:17.049] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/beekeeper
+[31Jan2025 21:34:17.049] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/copper_golem
+[31Jan2025 21:34:17.053] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_2
+[31Jan2025 21:34:17.057] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_1
+[31Jan2025 21:34:17.060] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_2
+[31Jan2025 21:34:17.061] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/straight
+[31Jan2025 21:34:17.112] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_1
+[31Jan2025 21:34:17.318] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_3
+[31Jan2025 21:34:18.049] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/terminator
+[31Jan2025 21:34:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Jan2025 21:34:19.862] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[31Jan2025 21:34:19.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Jan2025 21:34:19.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Jan2025 21:34:19.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Jan2025 21:34:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Jan2025 21:34:20.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Jan2025 21:34:20.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[31Jan2025 21:34:20.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Jan2025 21:34:20.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 21:34:20.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 21:34:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Jan2025 21:34:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Jan2025 21:34:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[31Jan2025 21:34:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Jan2025 21:34:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Jan2025 21:34:20.363] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[31Jan2025 21:34:20.363] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[31Jan2025 21:34:20.404] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[31Jan2025 21:34:20.404] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[31Jan2025 21:34:20.404] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for aether:the_aether
+[31Jan2025 21:34:20.404] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for aether:the_aether
+[31Jan2025 21:34:20.404] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[31Jan2025 21:34:20.404] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[31Jan2025 21:34:20.406] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[31Jan2025 21:34:20.406] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[31Jan2025 21:34:20.406] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[31Jan2025 21:34:20.406] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[31Jan2025 21:34:20.406] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Jan2025 21:34:20.407] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31Jan2025 21:34:20.407] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
