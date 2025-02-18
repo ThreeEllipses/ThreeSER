@@ -1983,3 +1983,14 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [18Feb2025 17:24:50.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses lost connection: Disconnected
 [18Feb2025 17:24:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses left the game
 [18Feb2025 17:24:50.978] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d35d3dc4-d45b-34ed-870c-62daa90caad8
+[18Feb2025 17:29:07.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThreeEllipses[/127.177.197.143:32949] logged in with entity id 6922 at (40.56416184089496, 63.0, 731.6947941053606)
+[18Feb2025 17:29:07.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses joined the game
+[18Feb2025 17:29:07.410] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d35d3dc4-d45b-34ed-870c-62daa90caad8
+[18Feb2025 17:29:14.926] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[18Feb2025 17:29:19.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses was shot by Hollow
+[18Feb2025 17:29:20.054] [Server thread/INFO] [tombstone/]: The player ThreeEllipses has successfully been saved
+[18Feb2025 17:29:33.465] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[18Feb2025 17:31:24.928] [IO-Worker-21/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1476 chunks (9.15%), ETA: 0:00:01, Rate: 14192.3 cps, Current: 47, 22
+[18Feb2025 17:31:25.791] [IO-Worker-28/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 16129 chunks (100.00%), Total time: 0:00:00
+[18Feb2025 17:34:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThreeEllipses> zzzzzzzzzzzz
+[18Feb2025 17:42:55.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Gave 10 [Emerald] to ThreeEllipses]
