@@ -62,6 +62,9 @@
   },
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
+      "statistics_root": "2025-02-21 01:38:39 +0000",
+      "the_first_night": "2025-02-21 01:38:38 +0000",
+      "just_keep_swimming": "2025-02-21 01:42:27 +0000",
       "bacap_root": "2025-02-20 20:09:51 +0000",
       "the_mighty_jungle": "2025-02-20 20:12:25 +0000"
     },
@@ -127,9 +130,16 @@
   },
   "blazeandcave:bacap/biomes_milestone": {
     "criteria": {
-      "the_mighty_jungle": "2025-02-20 20:12:25 +0000"
+      "the_mighty_jungle": "2025-02-20 20:12:25 +0000",
+      "just_keep_swimming": "2025-02-21 01:42:27 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-21 01:37:35 +0000"
+    },
+    "done": true
   },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
@@ -137,9 +147,88 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
+  "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
-      "coded_trigger": "2025-02-21 01:37:35 +0000"
+      "the_first_night": "2025-02-21 01:38:38 +0000",
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/the_first_night": {
+    "criteria": {
+      "trigger": "2025-02-21 01:38:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "the_first_night": "2025-02-21 01:38:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch2_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch4_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch6_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch8_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch1_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch3_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch5_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch7_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch9_mid": {
+    "criteria": {
+      "root": "2025-02-21 01:38:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/just_keep_swimming": {
+    "criteria": {
+      "enter_water": "2025-02-21 01:42:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2025-02-21 01:42:27 +0000"
     },
     "done": true
   },
