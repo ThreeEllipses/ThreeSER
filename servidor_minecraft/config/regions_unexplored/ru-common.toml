@@ -74,7 +74,7 @@
 	toggle_sparse_rainforest = true
 	toggle_sparse_redwoods = true
 	toggle_spires = true
-	toggle_steppe = false
+	toggle_steppe = true
 	toggle_temperate_grove = true
 	toggle_towering_cliffs = true
 	toggle_tropical_river = true

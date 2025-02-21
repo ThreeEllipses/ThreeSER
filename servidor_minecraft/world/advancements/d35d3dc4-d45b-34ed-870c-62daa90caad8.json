@@ -1,701 +1,135 @@
 {
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-02-20 20:09:50 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
-      "inv_changed-glowstone": "2025-02-18 15:18:47 +0000"
+      "inv_changed-glowstone": "2025-02-20 20:09:50 +0000"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2025-02-18 15:18:47 +0000"
+      "0": "2025-02-20 20:09:50 +0000"
     },
     "done": true
   },
   "toms_storage:unlock_netherite": {
     "criteria": {
-      "inv_changed-netherite": "2025-02-18 15:18:47 +0000"
+      "inv_changed-netherite": "2025-02-20 20:09:50 +0000"
     },
     "done": true
   },
   "toms_storage:unlock_chest": {
     "criteria": {
-      "inv_changed-chest": "2025-02-18 15:18:47 +0000"
+      "inv_changed-chest": "2025-02-20 20:09:50 +0000"
     },
     "done": true
-  },
-  "friendsandfoes:misc/yellow_dye_from_buttercup": {
-    "criteria": {
-      "has_the_recipe": "2025-02-18 15:18:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-02-18 15:18:47 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2025-02-18 15:18:47 +0000",
-      "inv_changed-diamond": "2025-02-18 15:18:47 +0000"
-    },
-    "done": true
-  },
-  "idas:idas_root": {
-    "criteria": {
-      "always": "2025-02-18 15:18:51 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/one_with_the_forest": {
-    "criteria": {
-      "forest": "2025-02-18 15:18:51 +0000",
-      "plains": "2025-02-18 15:30:42 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:challenges/explorer_of_worlds": {
-    "criteria": {
-      "lukewarm_ocean": "2025-02-18 17:49:43 +0000",
-      "ocean": "2025-02-18 17:52:05 +0000",
-      "jungle": "2025-02-18 17:21:48 +0000",
-      "forest": "2025-02-18 15:18:51 +0000",
-      "sparse_jungle": "2025-02-18 15:30:42 +0000",
-      "plains": "2025-02-18 15:30:42 +0000",
-      "river": "2025-02-18 15:30:13 +0000",
-      "desert": "2025-02-18 17:23:03 +0000"
-    },
-    "done": false
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-02-18 15:18:51 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/root": {
-    "criteria": {
-      "location": "2025-02-18 15:18:51 +0000"
+      "custom_test_name": "2025-02-20 20:09:50 +0000"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2025-02-18 15:18:51 +0000"
+      "WDA": "2025-02-20 20:09:50 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
-      "forest": "2025-02-18 15:18:51 +0000",
-      "lukewarm_ocean": "2025-02-18 17:49:43 +0000",
-      "plains": "2025-02-18 15:30:42 +0000",
-      "ocean": "2025-02-18 17:52:05 +0000",
-      "jungle": "2025-02-18 15:30:42 +0000",
-      "river": "2025-02-18 15:30:13 +0000",
-      "desert": "2025-02-18 17:23:03 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-02-18 15:18:51 +0000"
+      "has_the_recipe": "2025-02-20 20:09:50 +0000"
     },
     "done": true
   },
-  "regions_unexplored:parent": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "load_in_world": "2025-02-18 15:18:51 +0000"
+      "seeds": "2025-02-20 20:09:50 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-20 20:09:50 +0000",
+      "inv_changed-diamond": "2025-02-20 20:09:50 +0000"
     },
     "done": true
   },
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
-      "time_to_chop": "2025-02-18 17:37:21 +0000",
-      "bake_bread": "2025-02-18 17:20:07 +0000",
-      "getting_wood": "2025-02-18 17:19:43 +0000",
-      "acquire_hardware": "2025-02-18 17:52:19 +0000",
-      "care_for_the_environment": "2025-02-18 17:48:27 +0000",
-      "do_you_want_to_trade": "2025-02-18 17:23:25 +0000",
-      "farming_root": "2025-02-18 17:37:25 +0000",
-      "genesis_of_the_end": "2025-02-18 17:33:33 +0000",
-      "good_lookin_treasure": "2025-02-18 17:33:33 +0000",
-      "time_to_dig": "2025-02-18 17:37:40 +0000",
-      "tarzan": "2025-02-18 15:30:52 +0000",
-      "spikey": "2025-02-18 17:23:20 +0000",
-      "bamboom": "2025-02-18 20:11:14 +0000",
-      "time_to_farm": "2025-02-18 17:37:25 +0000",
-      "statistics_root": "2025-02-18 15:26:35 +0000",
-      "ahoy": "2025-02-18 17:52:38 +0000",
-      "ladder_climbers_inc": "2025-02-18 17:34:40 +0000",
-      "the_sea_calls_you": "2025-02-18 17:49:44 +0000",
-      "loot_em": "2025-02-18 17:31:42 +0000",
-      "heart_of_darkness": "2025-02-18 17:23:00 +0000",
-      "the_first_night": "2025-02-18 15:26:34 +0000",
-      "what_a_deal": "2025-02-18 17:43:00 +0000",
-      "just_keep_swimming": "2025-02-18 15:30:13 +0000",
-      "the_pie": "2025-02-18 20:09:47 +0000",
-      "sweet_dreams": "2025-02-18 15:26:24 +0000",
-      "animal_root": "2025-02-18 15:32:10 +0000",
-      "biomes_root": "2025-02-18 17:29:20 +0000",
-      "bacap_root": "2025-02-18 15:18:52 +0000",
-      "the_mighty_jungle": "2025-02-18 15:30:44 +0000",
-      "under_pressure": "2025-02-18 17:34:10 +0000",
-      "adventure_root": "2025-02-18 17:29:20 +0000",
-      "knowledge_is_power": "2025-02-18 17:43:00 +0000"
+      "bacap_root": "2025-02-20 20:09:51 +0000",
+      "the_mighty_jungle": "2025-02-20 20:12:25 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
-      "slept_in_bed": "2025-02-18 15:26:24 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/building_milestone": {
-    "criteria": {
-      "sweet_dreams": "2025-02-18 15:26:24 +0000",
-      "ladder_climbers_inc": "2025-02-18 17:34:40 +0000"
+      "forest": "2025-02-20 20:09:51 +0000"
     },
     "done": false
   },
-  "blazeandcave:bacap/statistics_milestone": {
+  "blazeandcave:challenges/explorer_of_worlds": {
     "criteria": {
-      "loot_em": "2025-02-18 17:31:42 +0000",
-      "the_first_night": "2025-02-18 15:26:34 +0000",
-      "root": "2025-02-18 15:26:35 +0000"
+      "forest": "2025-02-20 20:09:51 +0000",
+      "sparse_jungle": "2025-02-20 20:12:24 +0000",
+      "river": "2025-02-20 20:12:23 +0000"
     },
     "done": false
   },
-  "blazeandcave:statistics/the_first_night": {
+  "blazeandcave:bacap/root": {
     "criteria": {
-      "trigger": "2025-02-18 15:26:34 +0000"
+      "location": "2025-02-20 20:09:51 +0000"
     },
     "done": true
   },
-  "blazeandcave:statistics/root": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "the_first_night": "2025-02-18 15:26:34 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch2_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch4_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch6_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch8_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch1_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch3_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch5_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch7_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/stat_branch9_mid": {
-    "criteria": {
-      "root": "2025-02-18 15:26:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/just_keep_swimming": {
-    "criteria": {
-      "enter_water": "2025-02-18 15:30:12 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/fail_dragon_vs": {
-    "criteria": {
-      "enter_water": "2025-02-18 15:30:12 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/biomes_milestone": {
-    "criteria": {
-      "the_mighty_jungle": "2025-02-18 15:30:44 +0000",
-      "tarzan": "2025-02-18 15:30:52 +0000",
-      "bamboom": "2025-02-18 20:11:14 +0000",
-      "just_keep_swimming": "2025-02-18 15:30:13 +0000",
-      "root": "2025-02-18 17:29:20 +0000",
-      "the_sea_calls_you": "2025-02-18 17:49:44 +0000",
-      "ahoy": "2025-02-18 17:52:38 +0000"
+      "forest": "2025-02-20 20:09:51 +0000",
+      "jungle": "2025-02-20 20:12:24 +0000",
+      "river": "2025-02-20 20:12:23 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-02-20 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-02-20 20:09:51 +0000"
+    },
+    "done": true
   },
   "blazeandcave:biomes/wet_feet": {
     "criteria": {
-      "ocean": "2025-02-18 17:52:05 +0000",
-      "lukewarm_ocean": "2025-02-18 17:49:43 +0000",
-      "river": "2025-02-18 15:30:13 +0000"
+      "river": "2025-02-20 20:12:23 +0000"
     },
     "done": false
   },
   "blazeandcave:biomes/the_mighty_jungle": {
     "criteria": {
-      "jungle": "2025-02-18 15:30:42 +0000"
+      "jungle": "2025-02-20 20:12:24 +0000"
     },
     "done": true
   },
   "blazeandcave:biomes/overgrown": {
     "criteria": {
-      "sparse_jungle": "2025-02-18 15:30:42 +0000",
-      "jungle": "2025-02-18 17:21:48 +0000"
+      "sparse_jungle": "2025-02-20 20:12:24 +0000"
     },
     "done": false
   },
-  "blazeandcave:biomes/tarzan": {
+  "blazeandcave:bacap/biomes_milestone": {
     "criteria": {
-      "enter_vine": "2025-02-18 15:30:51 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-02-18 15:32:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-18 15:32:09 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/animal_milestone": {
-    "criteria": {
-      "root": "2025-02-18 15:32:10 +0000"
+      "the_mighty_jungle": "2025-02-20 20:12:25 +0000"
     },
     "done": false
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "willow_forest": "2025-02-18 17:51:23 +0000",
-      "grassy_beach": "2025-02-18 17:49:32 +0000",
-      "bamboo_forest": "2025-02-18 17:50:30 +0000",
-      "redwoods": "2025-02-18 17:18:33 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "willow_forest": "2025-02-18 17:51:23 +0000",
-      "grassy_beach": "2025-02-18 17:49:32 +0000",
-      "bamboo_forest": "2025-02-18 17:50:30 +0000",
-      "redwoods": "2025-02-18 17:18:33 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:challenges/i_am_loot": {
-    "criteria": {
-      "village_plains_house": "2025-02-18 17:53:18 +0000",
-      "shipwreck_map": "2025-02-18 17:52:47 +0000",
-      "shipwreck_treasure": "2025-02-18 17:52:15 +0000",
-      "village_fisher": "2025-02-18 17:51:58 +0000",
-      "village_taiga_house": "2025-02-18 17:19:40 +0000",
-      "stronghold_library": "2025-02-18 17:33:27 +0000",
-      "village_mason": "2025-02-18 17:31:34 +0000",
-      "village_desert_house": "2025-02-18 17:24:39 +0000",
-      "shipwreck_supply": "2025-02-18 20:09:51 +0000",
-      "village_cartographer": "2025-02-18 17:33:42 +0000",
-      "village_tannery": "2025-02-18 17:23:58 +0000",
-      "village_temple": "2025-02-18 17:20:04 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:building/spruce_lee": {
-    "criteria": {
-      "spruce_planks": "2025-02-18 17:19:52 +0000",
-      "spruce_log": "2025-02-18 17:19:43 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:challenges/all_the_blocks": {
-    "criteria": {
-      "bamboo": "2025-02-18 20:11:14 +0000",
-      "hay_block": "2025-02-18 17:46:43 +0000",
-      "spruce_planks": "2025-02-18 17:19:52 +0000",
-      "oak_sapling": "2025-02-18 17:48:20 +0000",
-      "spruce_log": "2025-02-18 17:19:43 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:building/yay_i_got_my_wood": {
-    "criteria": {
-      "spruce_log": "2025-02-18 17:19:43 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:challenges/all_the_items": {
-    "criteria": {
-      "rabbit": "2025-02-18 17:35:05 +0000",
-      "stick": "2025-02-18 17:37:06 +0000",
-      "wheat": "2025-02-18 17:47:49 +0000",
-      "iron_axe": "2025-02-18 17:37:20 +0000",
-      "eye_armor_trim": "2025-02-18 17:33:32 +0000",
-      "emerald": "2025-02-18 17:42:44 +0000",
-      "string": "2025-02-18 17:37:26 +0000",
-      "book": "2025-02-18 17:42:46 +0000",
-      "apple": "2025-02-18 17:52:13 +0000",
-      "pumpkin_pie": "2025-02-18 20:09:47 +0000",
-      "nautilus_shell": "2025-02-18 17:52:37 +0000",
-      "totem_of_undying": "2025-02-18 17:41:22 +0000",
-      "iron_ingot": "2025-02-18 17:52:18 +0000",
-      "potato": "2025-02-18 17:19:43 +0000",
-      "ender_pearl": "2025-02-18 17:33:32 +0000",
-      "bread": "2025-02-18 17:20:07 +0000",
-      "golden_apple": "2025-02-18 20:09:43 +0000",
-      "iron_shovel": "2025-02-18 17:37:39 +0000",
-      "raw_iron": "2025-02-18 17:39:08 +0000",
-      "filled_map": "2025-02-18 17:52:52 +0000",
-      "arrow": "2025-02-18 17:38:42 +0000",
-      "rabbit_hide": "2025-02-18 17:35:05 +0000",
-      "enchanted_book": "2025-02-18 17:33:30 +0000",
-      "iron_hoe": "2025-02-18 17:37:24 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:bacap/getting_wood": {
-    "criteria": {
-      "spruce_log": "2025-02-18 17:19:43 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/farming_milestone": {
-    "criteria": {
-      "bake_bread": "2025-02-18 17:20:07 +0000",
-      "spikey": "2025-02-18 17:23:20 +0000",
-      "the_pie": "2025-02-18 20:09:47 +0000",
-      "root": "2025-02-18 17:37:25 +0000",
-      "care_for_the_environment": "2025-02-18 17:48:27 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:farming/bake_bread": {
-    "criteria": {
-      "bread": "2025-02-18 17:20:07 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/vegetarian": {
-    "criteria": {
-      "bread": "2025-02-18 17:20:11 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-02-18 17:20:11 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:mining/heart_of_darkness": {
-    "criteria": {
-      "enter_cave": "2025-02-18 17:22:59 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/mining_milestone": {
-    "criteria": {
-      "acquire_hardware": "2025-02-18 17:52:19 +0000",
-      "heart_of_darkness": "2025-02-18 17:23:00 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:biomes/warm_feet": {
-    "criteria": {
-      "desert": "2025-02-18 17:23:03 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:farming/spikey": {
-    "criteria": {
-      "cactus": "2025-02-18 17:23:20 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/raidin_master": {
-    "criteria": {
-      "shipwreck": "2025-02-18 17:52:37 +0000",
-      "village_taiga": "2025-02-18 17:51:25 +0000",
-      "village_desert": "2025-02-18 17:23:24 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:adventure/do_you_want_to_trade": {
-    "criteria": {
-      "village": "2025-02-18 17:23:24 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/adventure_milestone": {
-    "criteria": {
-      "do_you_want_to_trade": "2025-02-18 17:23:25 +0000",
-      "what_a_deal": "2025-02-18 17:43:00 +0000",
-      "genesis_of_the_end": "2025-02-18 17:33:33 +0000",
-      "good_lookin_treasure": "2025-02-18 17:33:33 +0000",
-      "knowledge_is_power": "2025-02-18 17:43:00 +0000",
-      "root": "2025-02-18 17:29:20 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:potion/a_much_more_doable_challenge": {
-    "criteria": {
-      "hunger": "2025-02-18 17:23:32 +0000",
-      "invisibility": "2025-02-18 17:52:23 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:biomes/root": {
-    "criteria": {
-      "killed_by_something": "2025-02-18 17:29:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-02-18 17:29:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-02-18 17:29:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-02-18 17:29:33 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:statistics/loot_em": {
-    "criteria": {
-      "trigger": "2025-02-18 17:31:41 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:challenges/stack_all_the_items": {
-    "criteria": {
-      "wheat": "2025-02-18 17:47:49 +0000",
-      "iron_axe": "2025-02-18 17:37:20 +0000",
-      "totem_of_undying": "2025-02-18 17:41:22 +0000",
-      "bread": "2025-02-18 17:35:35 +0000",
-      "iron_shovel": "2025-02-18 17:37:39 +0000",
-      "enchanted_book": "2025-02-18 17:33:30 +0000",
-      "iron_hoe": "2025-02-18 17:37:24 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:enchanting/complete_enchanter": {
-    "criteria": {
-      "protection_book": "2025-02-18 17:33:30 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:challenges/ultimate_enchanter": {
-    "criteria": {
-      "protection3_book": "2025-02-18 17:33:30 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:enchanting/armor_for_the_masses": {
-    "criteria": {
-      "protection_book": "2025-02-18 17:33:30 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:adventure/genesis_of_the_end": {
-    "criteria": {
-      "eye_armor_trim_smithing_template": "2025-02-18 17:33:32 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/good_lookin_treasure": {
-    "criteria": {
-      "trim_templates": "2025-02-18 17:33:32 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:redstone/under_pressure": {
-    "criteria": {
-      "birch_pressure_plate": "2025-02-18 17:34:09 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/redstone_milestone": {
-    "criteria": {
-      "under_pressure": "2025-02-18 17:34:10 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:building/ladder_climbers_inc": {
-    "criteria": {
-      "enter_ladder": "2025-02-18 17:34:39 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/a_gluttonous_diet": {
-    "criteria": {
-      "bread": "2025-02-18 17:35:35 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:bacap/time_to_chop": {
-    "criteria": {
-      "iron_axe": "2025-02-18 17:37:20 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/time_to_farm": {
-    "criteria": {
-      "iron_hoe": "2025-02-18 17:37:24 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/root": {
-    "criteria": {
-      "hoe": "2025-02-18 17:37:24 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:redstone/engineer": {
-    "criteria": {
-      "string": "2025-02-18 17:37:26 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:bacap/time_to_dig": {
-    "criteria": {
-      "iron_shovel": "2025-02-18 17:37:39 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/businessman": {
-    "criteria": {
-      "librarian": "2025-02-18 17:42:59 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:adventure/traveller": {
-    "criteria": {
-      "desert": "2025-02-18 17:42:59 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:adventure/knowledge_is_power": {
-    "criteria": {
-      "trade": "2025-02-18 17:42:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "trade": "2025-02-18 17:42:59 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:challenges/stockbroker": {
-    "criteria": {
-      "librarian_desert": "2025-02-18 17:42:59 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:farming/care_for_the_environment": {
-    "criteria": {
-      "oak_sapling": "2025-02-18 17:48:26 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/ecologist": {
-    "criteria": {
-      "oak_sapling": "2025-02-18 17:48:26 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:biomes/the_sea_calls_you": {
-    "criteria": {
-      "ocean": "2025-02-18 17:49:43 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-02-18 17:50:17 +0000"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2025-02-18 17:52:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-02-18 17:52:18 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-02-18 17:52:21 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/ahoy": {
-    "criteria": {
-      "shipwreck": "2025-02-18 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/the_pie": {
-    "criteria": {
-      "pumpkin_pie": "2025-02-18 20:09:47 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/bamboom": {
-    "criteria": {
-      "bamboo": "2025-02-18 20:11:14 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
