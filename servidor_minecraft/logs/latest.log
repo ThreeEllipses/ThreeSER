@@ -1992,3 +1992,34 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [21Feb2025 01:30:22.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses lost connection: Timed out
 [21Feb2025 01:30:22.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses left the game
 [21Feb2025 01:30:22.857] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d35d3dc4-d45b-34ed-870c-62daa90caad8
+[21Feb2025 01:32:51.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThreeEllipses[/127.177.197.143:35743] logged in with entity id 2083 at (0.49169146446199585, 104.61980302123712, 49.76468237807969)
+[21Feb2025 01:32:51.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses joined the game
+[21Feb2025 01:32:51.075] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d35d3dc4-d45b-34ed-870c-62daa90caad8
+[21Feb2025 01:33:00.347] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[21Feb2025 01:33:13.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set the weather to clear]
+[21Feb2025 01:33:21.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses lost connection: Timed out
+[21Feb2025 01:33:21.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses left the game
+[21Feb2025 01:33:21.160] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d35d3dc4-d45b-34ed-870c-62daa90caad8
+[21Feb2025 01:36:03.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThreeEllipses[/127.177.197.143:59469] logged in with entity id 2529 at (0.49169146446199585, 104.61980302123712, 49.76468237807969)
+[21Feb2025 01:36:03.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses joined the game
+[21Feb2025 01:36:03.436] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d35d3dc4-d45b-34ed-870c-62daa90caad8
+[21Feb2025 01:36:10.308] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[21Feb2025 01:36:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Survival Mode]
+[21Feb2025 01:36:33.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThreeEllipses lost connection: Timed out
+[21Feb2025 01:36:33.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses left the game
+[21Feb2025 01:36:33.556] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d35d3dc4-d45b-34ed-870c-62daa90caad8
+[21Feb2025 01:37:27.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThreeEllipses[/127.177.197.143:56385] logged in with entity id 3004 at (0.49169146446199585, 104.61980302123712, 49.76468237807969)
+[21Feb2025 01:37:27.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses joined the game
+[21Feb2025 01:37:27.612] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d35d3dc4-d45b-34ed-870c-62daa90caad8
+[21Feb2025 01:37:33.958] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[21Feb2025 01:37:35.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreeEllipses fell from a high place
+[21Feb2025 01:37:36.009] [Server thread/INFO] [tombstone/]: The player ThreeEllipses has successfully been saved
+[21Feb2025 01:37:41.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Creative Mode]
+[21Feb2025 01:37:51.314] [Server thread/INFO] [do_a_barrel_roll/]: Client of ThreeEllipses accepted server config.
+[21Feb2025 01:37:54.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Spectator Mode]
+[21Feb2025 01:38:11.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Creative Mode]
+[21Feb2025 01:38:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set the time to 1000]
+[21Feb2025 01:38:54.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Survival Mode]
+[21Feb2025 01:39:37.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Creative Mode]
+[21Feb2025 01:42:36.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Survival Mode]
+[21Feb2025 01:42:38.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ThreeEllipses: Set own game mode to Creative Mode]
