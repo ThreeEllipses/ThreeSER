@@ -29,20 +29,6 @@
 	enable_enchantment_frostbite = true
 	#Enables the enchantment Spectral Conjurer [false/true|default:true]
 	enable_enchantment_spectral_conjurer = true
-	#Allows Spectral Bite at enchanting table [false/true|default:false]
-	spectral_bite_enchanting_table = false
-	#Allows Magic Siphon at enchanting table [false/true|default:false]
-	magic_siphon_enchanting_table = false
-	#Allows Plague Bringer at enchanting table [false/true|default:false]
-	plague_bringer_enchanting_table = false
-	#Allows Curse of Bones at enchanting table [false/true|default:false]
-	curse_of_bones_enchanting_table = false
-	#Allows Blessing at enchanting table [false/true|default:false]
-	blessing_enchanting_table = false
-	#Allows Frostbite at enchanting table [false/true|default:false]
-	frostbite_enchanting_table = false
-	#Allows Spectral Conjurer at enchanting table [false/true|default:false]
-	spectral_conjurer_enchanting_table = false
 	#Enables the enchantment Incurable Wounds [false/true|default:true]
 	enable_enchantment_incurable_wounds = true
 	#Enables the enchantment Decrepitude [false/true|default:true]
@@ -53,6 +39,20 @@
 	enable_enchantment_ruthless_strike = true
 	#Allows Soulbound at enchanting table [false/true|default:false]
 	soulbound_enchanting_table = true
+	#Allows Spectral Bite at enchanting table [false/true|default:false]
+	spectral_bite_enchanting_table = true
+	#Allows Magic Siphon at enchanting table [false/true|default:false]
+	magic_siphon_enchanting_table = true
+	#Allows Plague Bringer at enchanting table [false/true|default:false]
+	plague_bringer_enchanting_table = true
+	#Allows Curse of Bones at enchanting table [false/true|default:false]
+	curse_of_bones_enchanting_table = true
+	#Allows Blessing at enchanting table [false/true|default:false]
+	blessing_enchanting_table = true
+	#Allows Frostbite at enchanting table [false/true|default:false]
+	frostbite_enchanting_table = true
+	#Allows Spectral Conjurer at enchanting table [false/true|default:false]
+	spectral_conjurer_enchanting_table = true
 	#Allows Incurable Wounds at enchanting table [false/true|default:false]
 	incurable_wounds_enchanting_table = true
 	#Allows Decrepitude at enchanting table [false/true|default:false]
@@ -134,6 +134,11 @@
 	#Defines the level max of the perk Gladiator [1..5|default:5]
 	#Range: 1 ~ 5
 	level_max_gladiator = 5
+	#Allows the perk Priest [false/true|default:true]
+	allow_priest = true
+	#Defines the level max of the perk Priest [1..5|default:5]
+	#Range: 1 ~ 5
+	level_max_priest = 5
 	#The cooldown in minutes to reset the perks with the ankh of Prayer [20..1440|default:120]
 	#Range: 20 ~ 1440
 	cooldown_reset_perk = 120
@@ -150,9 +155,6 @@
 	#Defines experience lost when storing experience in a Scroll of Knowledge
 	#Range: 0 ~ 90
 	scroll_of_knowledge_loss = 0
-	#Maximum uses of a tablet [1..10|default:3]
-	#Range: 1 ~ 10
-	tablet_max_use = 3
 	#Cooldown in second after using a tablet [60..1200|default:300]
 	#Range: 60 ~ 1200
 	tablet_cooldown = 300
